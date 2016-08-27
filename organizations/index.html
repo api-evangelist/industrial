@@ -1,17 +1,17 @@
 ---
 layout: page
-title: API Client Organizations
+title: Industrial API Organizations
 ---
 
-<h3>API Client Organizations</h3>
-<p>These are some of the API security services, and organizations I'm keeping an eye on.</p>
+<h3>Industrial API Organizations</h3>
+<p>These are some of the industrial API services, and organizations I'm keeping an eye on.</p>
 <table width="100%" border="0" cellpadding="3" cellspacing="2">
   {% for org in site.data.organizations %}
 
     {% assign example = 0 %}
 
     {% for tag in org.tags %}
-      {% if tag contains 'Client' %}
+      {% if tag contains 'Industrial' %}
         {% assign example = 1 %}
       {% endif %}
     {% endfor %}

@@ -1,4 +1,4 @@
-title:        API Industrial
+title:        Industrial API
 url:          http://industrial.apievangelist.com
 logo:         https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-evangelist-industrial.png
 logo_width:   80
@@ -22,7 +22,7 @@ repo: industrial
 # Masthead title
 masthead_link: http://industrial.apievangelist.com
 masthead_font_size: 90
-masthead_title: '{"API Industrial"}'
+masthead_title: '{"Industrial API"}'
 
 # Feature
 feature_title: API Guide
