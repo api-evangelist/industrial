@@ -1,5 +1,93 @@
 [
 	{
+		"curated_id": "zAp0G116LY5mv1X0CV9Cm8j38CNdo9oW4p8OsZVp3zZDesaeVuGyr123eknN4Ugfld40R9ba7z2M2rKu369MTWKePA117117",
+		"item_date": "2016-09-28 15:12:47",
+		"title": "A Smarter Approach to Building Machines",
+		"url": "http://www.rockwellautomation.com/global/news/blog/detail.page?pagetitle=A-Smarter-Approach-to-Building-Machines-%257C-Blog&content_type=blog&docid=0dcc145e0b77ac70ee0b386a68fd244f&elqTrackId=0037EB0B146EB25BF7D7BC6E4E8A5276&elq=45597a05f49140e9aa244a30d7b6c812&elqaid=23138&elqat=1&elqCampaignId=10773",
+		"domain": "www.rockwellautomation.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ykEhVu123W5iBVfAqTBxBJ116GmA6h93b7W123HxBCANxFJbSK6116XJNb8PAuRp0xlUeRiHRCcYt4GTcjTktEhijd8KbQ117117",
+		"item_date": "2016-09-28 15:12:55",
+		"title": "Connected Enterprises Embrace Automated Serialization and Traceability Technology",
+		"url": "http://www.rockwellautomation.com/global/news/blog/detail.page",
+		"domain": "www.rockwellautomation.com",
+		"image": ""
+	},
+	{
+		"curated_id": "6CJ8BTAyx116garzukB116veJVryEYn0kfYvC5AVFWE8RV123Mn8TtVdSa3zVtOwK7gWPwePUnbm5XscZYpPOHEEIaBQ117117",
+		"item_date": "2016-09-27 00:00:00",
+		"title": "Trimble Launches Portfolio of Wireless IoT Sensors for Water Monitoring",
+		"url": "http://www.remotemagazine.com/main/markets/scada/trimble-launches-portfolio-of-wireless-iot-sensors-for-water-monitoring/",
+		"domain": "www.remotemagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "aqKoQidDneF3Qy5puIhu116ZuCE7pK116jOXVewvUmkrMyrupnhp7osPBN7Ok3hQh1MRJFQ03rLHMwvM2GSs80XrAQ117117",
+		"item_date": "2016-09-27 00:00:00",
+		"title": "Siemens SCALANCE M800S615 Web Vulnerability",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-271-01",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "PD7lxTp5Aasd3uJR116yfvkYWOY1Mh4UTUr123pdQw0VmNORpRmdNMZ1235fOhDLL2kgBFyEHibK8EW56BMVRMvUn11A117117",
+		"item_date": "2016-09-30 00:00:00",
+		"title": "Wireless Technologies for Industrial Communication  What to Choose",
+		"url": "http://www.remotemagazine.com/main/articles/wireless-technologies-for-industrial-communication-what-to-choose/",
+		"domain": "www.remotemagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "3sEEn116kEppjDqmvpuxE8Gs5s1X1zusLJ1239qZUWhV3tCiNuRErflsb4eqh4SAauHFwSyLSN116A0j123aOK116ScU6E2A117117",
+		"item_date": "2016-09-28 13:52:53",
+		"title": "Adding process control to PLC white paper",
+		"url": "http://info.opto22.com/adding-process-control-to-plc-white-paper",
+		"domain": "info.opto22.com",
+		"image": ""
+	},
+	{
+		"curated_id": "krcVLR7VOju1116RjiN9QP1T4rUR0CcWIAhy6X0ydkAKzRt116fyXx3aMLn25wo8aeakuiyy6KU0vz0gxfpxFInH9w117117",
+		"item_date": "2016-09-28 15:12:47",
+		"title": "A Smarter Approach to Building Machines",
+		"url": "http://www.rockwellautomation.com/global/news/blog/detail.page",
+		"domain": "www.rockwellautomation.com",
+		"image": ""
+	},
+	{
+		"curated_id": "nOVNUepmXj1yESAlDUjG7muOBE9VUxDNRIO0ArnissA6jAf123bNoJiPkkhs2OekbwaCHLnMwNP27PE8LLd6diKg117117",
+		"item_date": "2016-09-28 15:12:55",
+		"title": "Connected Enterprises Embrace Automated Serialization and Traceability Technology",
+		"url": "http://www.rockwellautomation.com/global/news/blog/detail.page",
+		"domain": "www.rockwellautomation.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5s1jPOadL8GLi116Rlj9bdLUjIEHVX18XXLKHrsnuRwV2hiZrORZdnAKtyqqPYYP6sb1uryZT116bRskriwbijeTsA117117",
+		"item_date": "2016-09-27 00:00:00",
+		"title": "Around the clock  Automotive supplier optimizes hot dip galvanizing plant with Siemens Scada system",
+		"url": "https://blogs.siemens.com/mediaservice-industries-en/stories/32806/",
+		"domain": "blogs.siemens.com",
+		"image": ""
+	},
+	{
+		"curated_id": "63Xq9n48aYDOa5123reQ7C3G0DndDwIm3SEWL4erZp8KPt8Mki0jCOxVJwJ4NxoLt116GSuZ1237Es1164zysM123cdiP0CQ117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "Progress on security for the Industrial Internet of Things",
+		"url": "http://disruptiveviews.com/security-industrial-iot/",
+		"domain": "disruptiveviews.com",
+		"image": ""
+	},
+	{
+		"curated_id": "vdvB8EkAWzXiasCSj5123f6Hrqn1169euil0iSq08xvTFiTkL9FsvIlM123yLqdfamEV40kDgJVbx116C1Y0vkHka4Kmeg117117",
+		"item_date": "2016-09-26 00:00:00",
+		"title": "Japans Tepco and GE to Launch Digital Transformation of Utilitys Fleet of ThermalPowered Stations",
+		"url": "http://www.remotemagazine.com/main/news/japans-tepco-and-ge-to-launch-digital-transformation-of-utilitys-fleet-of-thermal-powered-stations/",
+		"domain": "www.remotemagazine.com",
+		"image": ""
+	},
+	{
 		"curated_id": "IoTBWfikcdBYsM94N4axWYvDbFNzxmqz6VCQXJxHVfPX5CafYWKomNJizUqeYmEpffK88UAer1233lZ4FNS0tCeQ117117",
 		"item_date": "2016-09-22 00:00:00",
 		"title": "Equipment manufacturers embrace AgGateways ADAPT",
