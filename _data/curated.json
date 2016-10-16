@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "5F2lPXxamRRAfmGFBGh0lvtNOX5GWOUv6RxZX116m9opIY6TN2URue0Pce9EmPy3TvPT8aK8tJYHAglZzkmJavQg117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "Seeq Releases R15 Adds SQL Server Integration Historian Support and Ease of Use Features",
+		"url": "http://www.remotemagazine.com/main/news/seeq-releases-r15-adds-sql-server-integration-historian-support-and-ease-of-use-features/",
+		"domain": "www.remotemagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "wYSgHFiF116cALvzZWjrUxLoH116QkHRiypC5BRX21238HgdrWGLZLY9xCNi6CzC5SiIsQ8J54E7123RwcTBxwZvJXB8kg117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "Rockwell Automation Stratix DenialofService and Memory Leak Vulnerabilities",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-287-04",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "s7NkdXQPDDRYMLQCp1EFaR123mEYW5oqs3vkxKEegjDBkIMGlKIdg7gxlQPGLA123T0K0UJHAHzCdqI8lnS7hAhJbg117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "HMS to Offer Netbiter Remote Management Solution Under the eWON Brand",
+		"url": "http://www.remotemagazine.com/main/markets/scada/hms-to-offer-netbiter-remote-management-solution-under-the-ewon-brand/",
+		"domain": "www.remotemagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "j1SjOfRvUvLZdPZpgOdixrTHDqHp3UpG1239X123gXJzF8P59Tc6jJjKR0B945ZWGnnKgBSLTbB6rzBp116EOX9123uOGA117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "OptoNews Connecting industrial devices to IBM Watson IoT",
+		"url": "http://blog.opto22.com/optoblog/optonews-connecting-industrial-devices-to-ibm-watson-iot",
+		"domain": "blog.opto22.com",
+		"image": ""
+	},
+	{
 		"curated_id": "R2T340123PnH95xd1KQI6ScSIILYjVJLzjI9LnR3cHE7QqMlhFB1LvBprzDNnRQj7smlOwmxjvrqNft4AlJAHjew117117",
 		"item_date": "2016-10-06 11:08:31",
 		"title": "How I upgraded my SNAP PAC controllers to version 95 and the RESTful interface",
