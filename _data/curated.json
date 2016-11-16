@@ -19,8 +19,8 @@
 		"curated_id": "1py1hfz4bgXU0OVGuCZFrk03zCvsaQARYNAMCQJNwSL6wktnzVq7I116nBCybRZw4KGq123SHo0zQPYRJZgaQZjeyQ117117",
 		"item_date": "2016-11-11 00:00:00",
 		"title": "Using Big Data To Boost Oil Industry",
-		"url": "http://feedproxy.google.com/~r/cxotoday/~3/NEk1959WqmA/",
-		"domain": "feedproxy.google.com",
+		"url": "http://www.cxotoday.com/story/using-big-data-to-boost-oil-industry/",
+		"domain": "www.cxotoday.com",
 		"image": ""
 	},
 	{
@@ -806,13 +806,5 @@
 		"url": "https://gigaom.com/2015/02/23/arm-freescale-and-ibm-offer-a-platform-for-industrial-iot/",
 		"domain": "gigaom.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/gigaom-com20150223arm-freescale-and-ibm-offer-a-platform-for-industrial-iot.png"
-	},
-	{
-		"curated_id": "8nM6w0jjTqmx0cf1oKbhnRn6pI5ENrVJOMqWTcmov1LXGsHdfo116k2L11602VnANnE9XKgSUi2abGosUxQdeIpjTg117117",
-		"item_date": "2013-03-27 21:22:45",
-		"title": "The coming of the industrial internet  OReilly Radar",
-		"url": "http://radar.oreilly.com/2013/03/industrial-internet-report.html",
-		"domain": "radar.oreilly.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7227_radar_oreilly_com.png"
 	}
 ]
