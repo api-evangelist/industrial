@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "1lptuTiKp5U123NgFsmEBdHj3AJohoN0jLhU2ta9ep0wBnBH4Y116acVvPps2LYNdmWAWK0TCip7sUpq3v53MifZPg117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Siemens S7300400 PLC Vulnerabilities",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-348-05",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "RMu116bK8tI7kacNyC8VN3xoj880axg123k9vVyIfSn2VS704PxJQBH5L3Oxs9uGPesljwXqXEFwxxnjFUhXwj4Ijg117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Siemens SIMATIC WinCC and SIMATIC PCS 7 ActiveX Vulnerability",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-348-04",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "dP14Ut33IG66Lyjc8A123gNWHbBT123123LibZn4ngpxt0RBlrQX8Djjfo4ibANhunL651237JNLAXc9zJpO3nuuzfBiFQ117117",
+		"item_date": "2016-12-14 00:00:00",
+		"title": "How to Build a Raspberry Pi with NodeRED and Industrial GPIO",
+		"url": "http://blog.opto22.com/optoblog/how-to-build-a-raspberry-pi-with-node-red-and-industrial-gpio",
+		"domain": "blog.opto22.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ljU64Ysqp8l3cdO3ANv9l5KveVDeRh2cvALPjkLGAobJ7keLIdIsdLuXbDwe0o8xyCJW5FVr5xizrS116LBakLXw117117",
+		"item_date": "2016-12-14 00:00:00",
+		"title": "OptoNews Tip Using NodeRED with Raspberry Pi",
+		"url": "http://blog.opto22.com/optoblog/optonews-tip-using-node-red-with-raspberry-pi",
+		"domain": "blog.opto22.com",
+		"image": ""
+	},
+	{
+		"curated_id": "zDhaECF2lrV2XR3iqvI116DqOgrDw34EKR022Vcy91Aab1K6i1S1pNwtybjVpWdLvYAyXLLNRKF2Gk0UMfZpAnMw117117",
+		"item_date": "2016-12-14 00:00:00",
+		"title": "OptoNewsNewPAC REST APIvideo  exchange data with Access database",
+		"url": "http://blog.opto22.com/optoblog/optonews-new-pac-rest-api-video-exchange-data-with-access-database",
+		"domain": "blog.opto22.com",
+		"image": ""
+	},
+	{
 		"curated_id": "TFImOnF788116CPlccCBTQIDh8djG3qOVGGqwUQRRzcYfLXIJ4k68uqe4pntDntzwJNmggZwzOXxf9pnGiUFcG2Q117117",
 		"item_date": "2016-12-15 00:00:00",
 		"title": "International Organization for Standardization Approves Standard that Integrates Control Technologies into the Grid",
