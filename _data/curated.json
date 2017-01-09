@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "l4SNqu22fh0feqyz6PK708gs7hX93ZT0Tun116hWWRn2zmYB6UiRT116Ew48FP116zDKp0HGKwimnY6fcDRHRV2PfjNA117117",
+		"item_date": "2017-01-03 00:00:00",
+		"title": "New AL500 LiDAR System from Acuity Technologies",
+		"url": "http://www.pobonline.com/articles/100735-new-al-500-lidar-system-from-acuity-technologies",
+		"domain": "www.pobonline.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BPVpHAGiSdDWCob5rES05kUyGrSRwnSVY0VGjwFf6smvmdl116JSK5dmUPUax116orGqcdBcXZ4zR97Jq1OmLu4ujw117117",
+		"item_date": "2017-01-05 00:00:00",
+		"title": "Rockwell Automation Logix5000 Programmable Automation Controller Buffer Overflow Vulnerability",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-343-05",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "WhRGrnytFp0BsJa86JplLdPv4NmfSEDkny7hOoxKmBj9dJcTMRbImgDSr123ZfWCeV116kUpTeQdfbzgDMdeoD123IbQ117117",
+		"item_date": "2017-01-04 00:00:00",
+		"title": "OptoNews Data from databases online services in your groov mobile interface",
+		"url": "http://blog.opto22.com/optoblog/optonews-data-from-databases-online-services-in-your-groov-mobile-interface",
+		"domain": "blog.opto22.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5q5bKOWxriar4n8LelMPtzWzzYpg2ZgRaABVXtxu5yw0qAoBjPqj4cqig4lWx7bxhjJsKfCSt1S0L7jrjN9skA117117",
+		"item_date": "2017-01-05 00:00:00",
+		"title": "Rockwell Automation MicroLogix 1100 and 1400 Vulnerabilities",
+		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-336-06",
+		"domain": "ics-cert.us-cert.gov",
+		"image": ""
+	},
+	{
 		"curated_id": "1lptuTiKp5U123NgFsmEBdHj3AJohoN0jLhU2ta9ep0wBnBH4Y116acVvPps2LYNdmWAWK0TCip7sUpq3v53MifZPg117117",
 		"item_date": "2016-12-13 00:00:00",
 		"title": "Siemens S7300400 PLC Vulnerabilities",
