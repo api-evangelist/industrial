@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "123Lf116yIXgi6Y2g6qeWtNMVDoWdNK6ynof6C1lFTnPGNp6AdVz10yKxOpn123uRUkC3ZllMmjCAfH1W58eGHzJgRAA117117",
+		"item_date": "2017-01-13 00:00:00",
+		"title": "Two new developments in Industrial IoT show continued maturation of the space",
+		"url": "http://www.businessinsider.com/industrial-iot-announcements-show-continued-maturation-2017-1",
+		"domain": "www.businessinsider.com",
+		"image": ""
+	},
+	{
+		"curated_id": "bbAxfme0ymzp7xlog1169AfRRrr0rbUbCIDQIBA3uABhdqVs5tUIs4iiukgN9nszL5BVYMzqOJf7DuPyI9tDfVjQ117117",
+		"item_date": "2017-01-13 00:00:00",
+		"title": "5 Fundamental Security Features your Industrial Assets Must Have",
+		"url": "http://blog.opto22.com/optoblog/fundamental-security-features-for-industrial-assets",
+		"domain": "blog.opto22.com",
+		"image": ""
+	},
+	{
+		"curated_id": "yH9r8kFzVhnEm8nmfkaMQnnt8opVNkpJPa6uQ0TMsGk6TC4QzhE116vTxKFXleYNvSH4t0vN2CSSeHKr23nIc5aw117117",
+		"item_date": "2017-01-11 00:00:00",
+		"title": "Honeywell and Aereon Leverage IIoT for Oil and Gas",
+		"url": "http://www.remotemagazine.com/main/news/honeywell-and-aereon-leverage-iiot-for-oil-and-gas/",
+		"domain": "www.remotemagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "i5SV0G2tlaQee1gYV5igSYq9BGfA2yj6gKo7LktN123ntwdcYS49xi0SH5mBw4PY7T7dyM82iMpu5NHscM1mmp116w117117",
+		"item_date": "2017-01-10 00:00:00",
+		"title": "Temperature Control With Ubidots MQTT and NodeMcu",
+		"url": "https://dzone.com/articles/temperature-control-with-ubidots-mqtt-and-nodemcu",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "l4SNqu22fh0feqyz6PK708gs7hX93ZT0Tun116hWWRn2zmYB6UiRT116Ew48FP116zDKp0HGKwimnY6fcDRHRV2PfjNA117117",
 		"item_date": "2017-01-03 00:00:00",
 		"title": "New AL500 LiDAR System from Acuity Technologies",
