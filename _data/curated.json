@@ -1,5 +1,53 @@
 [
 	{
+		"curated_id": "2fGF5huPsvLdg5pnQo1PJE9gsDMehY116zZxaxaifqhXPWPbHzXSZhS9YwU8nDGm1S0HyTn7R6IaukXJWHG1qyQw117117",
+		"item_date": "2017-01-31 00:00:00",
+		"title": "mPrest Completes Project with Israel Electric Corp",
+		"url": "http://www.remotemagazine.com/main/news/mprest-completes-project-with-israel-electric-corp/",
+		"domain": "www.remotemagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "lW80fMtJu75h9tmJ7QqD3HO85QUa2NzdvE3y3TktjTLJnFBkojUDjEfHDlGnPvYRVDwHY4iJmLm123123EUmA8OepQ117117",
+		"item_date": "2017-01-31 00:00:00",
+		"title": "Electric Utilities Reinvented and Bypassed",
+		"url": "http://www.remotemagazine.com/main/news/electric-utilities-reinvented-and-bypassed/",
+		"domain": "www.remotemagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ZyYq5Dz123cOAHdO2fDAuEAfVh5gtYgqlH6ROnacV4k123g9vLSYuAS123GF116IrDzr67Apq91lo6kYLoyxsig9e123N116Kg117117",
+		"item_date": "2017-01-31 00:00:00",
+		"title": "AQUARIUS TimeSeries Deployed by US Geological Survey in Private Cloud",
+		"url": "http://www.remotemagazine.com/main/news/aquarius-time-series-deployed-by-u-s-geological-survey-in-private-cloud/",
+		"domain": "www.remotemagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kpLYHWiWNQMug90olLHcRskYIt3x92U0FLApWyub0qRO05dBDiqQbB51IwEo6PAr0IL0h123uxAx87cyU123eZ2PeA117117",
+		"item_date": "2017-02-01 00:00:00",
+		"title": "Hardware and Measurement Abstraction Layers",
+		"url": "http://spectrum.ieee.org/whitepaper/hardware-and-measurement-abstraction-layers",
+		"domain": "spectrum.ieee.org",
+		"image": ""
+	},
+	{
+		"curated_id": "QkeTyvHELtqPWpfTQzAeuw4USDkei116TkWtHX0ZbwX7mvM82KDHX6Uzv3XzfeEPYxLWjGNSUUsNgJQk65HuKRPQ117117",
+		"item_date": "2017-01-30 00:00:00",
+		"title": "Integration of Siemens S7 Data in IoT Cloud Solutions",
+		"url": "http://www.remotemagazine.com/main/markets/networkingtelemetry/integration-of-siemens-s7-data-in-iot-cloud-solutions/",
+		"domain": "www.remotemagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uglPrCzv1vV116MdWHVMhpOi8Hjx4lBGE7AaiXXPaEJz7RFYyb9zfK4wShbrhrYo19DZ1RUnLGLnTljb123d76q123ng117117",
+		"item_date": "2017-01-30 00:00:00",
+		"title": "Itron and BSquare First to Provide App Community for Grid Edge Devices",
+		"url": "http://www.remotemagazine.com/main/markets/scada/itron-and-bsquare-first-to-provide-app-community-for-grid-edge-devices/",
+		"domain": "www.remotemagazine.com",
+		"image": ""
+	},
+	{
 		"curated_id": "RBOrl61Gwt1zLU0TeGnU1N7hLzWAEJ8xSSA4Jj770DtOLZ2BWGpZeMBBsqA5rLmlhE5VnIYZx7kZBuG5xqZ5zw117117",
 		"item_date": "2017-01-19 00:00:00",
 		"title": "Security Risks in Industrial Assets Analyze before You Buy",
