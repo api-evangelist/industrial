@@ -1,5 +1,53 @@
 [
 	{
+		"curated_id": "lWUVb6e1AmynS0cSH5BB116VaT3dlbUNSnwSs0ZMyxrWkM11VTChqlDKvYwBRSBERwB3gOW123zmaDgJj6QizwbAQg117117",
+		"item_date": "2017-04-06 00:00:00",
+		"title": "Serverside JavaScript for the IIoT",
+		"url": "http://blog.opto22.com/optoblog/server-side-javascript-for-the-iiot",
+		"domain": "blog.opto22.com",
+		"image": ""
+	},
+	{
+		"curated_id": "B7QV9iixdW2CZo6Ldo28116116M08xdgtvGrOCGJqI4V8vqCiL1E9VbJo116VVDOZFuL4fMGNznEW116VWq3jky7fPiOcQ117117",
+		"item_date": "2017-04-04 00:00:00",
+		"title": "Pluto AI raises 21 million to bring intelligence to water treatment",
+		"url": "https://techcrunch.com/2017/04/04/pluto-ai-raises-2-1-million-to-bring-intelligence-to-water-treatment/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "z2rBguOLDvtmZGGAyS2ulukB1svF9JVi6dVhpXr9bMGaNQKDuWyKK6maoqGe6bBX11pfMRWxXPZTgUN116sYG6Qg117117",
+		"item_date": "2017-04-04 00:00:00",
+		"title": "Osterhout Design Group intros new wearable goggles for hazmat workers",
+		"url": "http://www.zdnet.com/article/osterhout-design-group-intros-new-wearable-googles-for-hazmat-workers/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "eBX1167LBZGasUlzcxsitTlUuh9q1iMF4YwMW123MVX2F116zDf55123dIGxVIHYrK0yxDzqMLDUmFeg7PGHoE8116j6OY123w117117",
+		"item_date": "2017-04-04 00:00:00",
+		"title": "Opportunities and Barriers in Industrial IoT",
+		"url": "https://www.ariasystems.com/blog/opportunities-barriers-industrial-iot/",
+		"domain": "www.ariasystems.com",
+		"image": ""
+	},
+	{
+		"curated_id": "og556zV7x5vWwQIQ1231SdPd8j116y81iLFGAgASUGx8AKEuyarQcnXBFLUQP4LCzpHtJbJI0vsMNrA7ed0jps7WmA117117",
+		"item_date": "2017-04-04 00:00:00",
+		"title": "Honeywell Launches Industrial Cyber Security Solution",
+		"url": "http://www.remotemagazine.com/main/markets/security-channels/honeywell-launches-industrial-cyber-security-solution/",
+		"domain": "www.remotemagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "C7CxxQfqqsA1234HBwx1236mWGmXlMV4n0V7g0VotMWAGOOz9i6mR7duSmlFnu89dxoyf3a3YPDpOHakblZR1WGWhg117117",
+		"item_date": "2017-04-04 00:00:00",
+		"title": "Software Technologies Industrial Automation Professionals Need For Industrial IoT Applications",
+		"url": "http://blog.opto22.com/optoblog/top-software-technologies-for-systems-integrators-and-the-industrial-iot",
+		"domain": "blog.opto22.com",
+		"image": ""
+	},
+	{
 		"curated_id": "qi3c3Y123jIrJagR9xajxbJKTR3E1EVi5gTPDquDV7tomgBXDss123ky9PRQoACzLb123qA1230zewh5xa0co123j9cWehzw117117",
 		"item_date": "2017-03-23 00:00:00",
 		"title": "Are you protecting your SCADA system from ransomware",
