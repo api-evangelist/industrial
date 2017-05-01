@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "yCZoh0NFhqPfAbCrPSy123nb37jwFL80N8yDd79Umkr10g1166DVSrRjkn9IhuvkN0CuepsLf123dYkWKDnmplKGaN116g117117",
+		"item_date": "2017-04-24 00:00:00",
+		"title": "ABB IBM team up on industrial artificial intelligence",
+		"url": "http://www.reuters.com/article/us-abb-ibm-idUSKBN17R0DE",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YFCvlOpeSx8vNuW116AkKAts1YIJX5XJFEwfJ8mikzbc6pwSEQXxTxFtYv1eAmGkQAxXHa5BglWHqyXr2Mr0tO123w117117",
+		"item_date": "2017-04-25 00:00:00",
+		"title": "Cisco Connected Factory for Industrie 40 Moving Intelligence into Action with Smart Factories",
+		"url": "https://newsroom.cisco.com/press-release-content",
+		"domain": "newsroom.cisco.com",
+		"image": ""
+	},
+	{
+		"curated_id": "rZ44Fh0SyA3h0De18UGEBOBq116QbP4Fsk1y3eCEMUkb116P5qJbI5hhgRq1g123DUnR3AWfJrKX4ocifnndCStz104Q117117",
+		"item_date": "2017-04-26 00:00:00",
+		"title": "Cyber risks for Industrial environments continue to increase",
+		"url": "http://resources.infosecinstitute.com/cyber-risks-industrial-environments-continue-increase/",
+		"domain": "resources.infosecinstitute.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5faqskuJ7k13rzCpz6n6E1Dtv53px9Kbb123W123kQQDQXBt5DZxSIf67rCS6sRFQ2PKGeKvTrdxP116rECNUxBRcQ5g117117",
+		"item_date": "2017-04-26 00:00:00",
+		"title": "How IIoT and SCADA Systems are Melding Together",
+		"url": "http://www.remotemagazine.com/main/articles/how-iiot-and-scada-systems-are-melding-together/",
+		"domain": "www.remotemagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PzHe9gs7UpJgtYdhhxdbwcD8242OZ5RvdNDLb6SHbn9tdP6k8K1235116JvRp116FrWlvf2116rQwpHVUYcUXSKMmL6v123w117117",
+		"item_date": "2017-04-27 00:00:00",
+		"title": "The IIoT Starts With Micro Services",
+		"url": "http://blog.opto22.com/optoblog/the-iiot-starts-with-micro-services",
+		"domain": "blog.opto22.com",
+		"image": ""
+	},
+	{
 		"curated_id": "5fUEs9p8sm8uivGTVFEwu3pFq123bya1233lykSV2S4s1FKdn6RQVUqjLc7qeli232PWNHoBy0U123WT0SUZBEtUM4HQ117117",
 		"item_date": "2017-04-18 00:00:00",
 		"title": "Companies Lagging In Industrial IoT Readiness Study",
