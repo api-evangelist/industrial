@@ -146,12 +146,6 @@
   url: http://www.bbc.co.uk/news/technology-37001301
   domain: www.bbc.co.uk
   image: ""
-- curated_id: 89af28889d478e882914537ed750a3ec
-  item_date: "2016-08-08 00:00:00"
-  title: HoneyWell Launches MidStream Natural Gas Measurement Portfolio
-  url: http://www.remotemagazine.com/main/markets/scada/honeywell-launches-midstream-natural-gas-measurement-portfolio/
-  domain: www.remotemagazine.com
-  image: ""
 - curated_id: 1c7eec6f59ec31d1706daf3a4763112b
   item_date: "2016-08-08 00:00:00"
   title: Guarding The Grid
@@ -162,6 +156,12 @@
   item_date: "2016-08-08 00:00:00"
   title: Multichannel Circuit Breakers for CID2 Use
   url: http://www.remotemagazine.com/main/markets/power/multichannel-circuit-breakers-for-cid2-use/
+  domain: www.remotemagazine.com
+  image: ""
+- curated_id: 89af28889d478e882914537ed750a3ec
+  item_date: "2016-08-08 00:00:00"
+  title: HoneyWell Launches MidStream Natural Gas Measurement Portfolio
+  url: http://www.remotemagazine.com/main/markets/scada/honeywell-launches-midstream-natural-gas-measurement-portfolio/
   domain: www.remotemagazine.com
   image: ""
 - curated_id: 2cc653c0185ccaa389c5bdbc53ee15f8
@@ -289,12 +289,6 @@
   url: http://www.remotemagazine.com/main/news/imagine-h2o-water-policy-challenge-to-promote-data-solutions-in-california/
   domain: www.remotemagazine.com
   image: ""
-- curated_id: f612ee7264fe3d1c7ff463a1bcfa4074
-  item_date: "2016-09-13 00:00:00"
-  title: Manufacturers Rely on Big Data Analytics to Navigate Tough Business Conditions
-  url: http://www.remotemagazine.com/main/news/manufacturers-rely-on-big-data-analytics-to-navigate-tough-business-conditions/
-  domain: www.remotemagazine.com
-  image: ""
 - curated_id: b9414841f42daae7ccc47bad383d80b9
   item_date: "2016-09-13 00:00:00"
   title: Eaton?s 3-Volt Supercapacitor Cells Provide Increased Energy Capacity, Cost
@@ -302,18 +296,30 @@
   url: http://www.remotemagazine.com/main/markets/power/eatons-3-volt-supercapacitor-cells-provide-increased-energy-capacity-cost-savings/
   domain: www.remotemagazine.com
   image: ""
-- curated_id: 14349cf0e25beea70ee78290ce7c8c68
-  item_date: "2016-09-13 00:00:00"
-  title: Startup Focuses On Real-Time Security Monitoring Of Plant Networks
-  url: http://www.darkreading.com/cloud/startup-focuses-on-real-time-security-monitoring-of-plant-networks/d/d-id/1326887
-  domain: www.darkreading.com
-  image: ""
 - curated_id: fef2852d6f878688a32ed5e8f6163af0
   item_date: "2016-09-13 00:00:00"
   title: Intelligent and Cyber Secure Standalone Power Supply from Bedrock Automation
     is Built to Last a Lifetime and Deliver on the IIoT Promise
   url: http://www.remotemagazine.com/main/markets/power/intelligent-and-cyber-secure-standalone-power-supply-from-bedrock-automation-is-built-to-last-a-lifetime-and-deliver-on-the-iiot-promise/
   domain: www.remotemagazine.com
+  image: ""
+- curated_id: f612ee7264fe3d1c7ff463a1bcfa4074
+  item_date: "2016-09-13 00:00:00"
+  title: Manufacturers Rely on Big Data Analytics to Navigate Tough Business Conditions
+  url: http://www.remotemagazine.com/main/news/manufacturers-rely-on-big-data-analytics-to-navigate-tough-business-conditions/
+  domain: www.remotemagazine.com
+  image: ""
+- curated_id: 1d66fbda9caa1479d4f2f67e3327f56c
+  item_date: "2016-09-13 00:00:00"
+  title: 'Cyber security in mining: managing risk amongst disruption'
+  url: https://exchange.telstra.com.au/2016/09/14/cyber-security-mining-managing-risk-amongst-disruption/
+  domain: exchange.telstra.com.au
+  image: ""
+- curated_id: 14349cf0e25beea70ee78290ce7c8c68
+  item_date: "2016-09-13 00:00:00"
+  title: Startup Focuses On Real-Time Security Monitoring Of Plant Networks
+  url: http://www.darkreading.com/cloud/startup-focuses-on-real-time-security-monitoring-of-plant-networks/d/d-id/1326887
+  domain: www.darkreading.com
   image: ""
 - curated_id: 2ac3c361102d24d07c69b6ad03a4cff6
   item_date: "2016-09-13 00:00:00"
@@ -327,12 +333,6 @@
     Cybersecurity with Defense-in-Depth Strategies'
   url: https://ics-cert.us-cert.gov/ICS-CERT-releases-Recommended-Practice-Improving-Industrial-Control-System-Cybersecurity-Defense
   domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: 1d66fbda9caa1479d4f2f67e3327f56c
-  item_date: "2016-09-13 00:00:00"
-  title: 'Cyber security in mining: managing risk amongst disruption'
-  url: https://exchange.telstra.com.au/2016/09/14/cyber-security-mining-managing-risk-amongst-disruption/
-  domain: exchange.telstra.com.au
   image: ""
 - curated_id: acaf62e685e81cfa393a0d84da73b7d2
   item_date: "2016-09-13 12:00:12"
@@ -620,12 +620,6 @@
   url: https://ics-cert.us-cert.gov/advisories/ICSA-16-348-05
   domain: ics-cert.us-cert.gov
   image: ""
-- curated_id: e632e99f228d3030a2abf706ee832c0d
-  item_date: "2016-12-14 00:00:00"
-  title: "OptoNews:\_New\_PAC REST API\_video - exchange data with Access database"
-  url: http://blog.opto22.com/optoblog/optonews-new-pac-rest-api-video-exchange-data-with-access-database
-  domain: blog.opto22.com
-  image: ""
 - curated_id: 9cb4a557a6f8c2cb43f890552e4cf56f
   item_date: "2016-12-14 00:00:00"
   title: 'OptoNews Tip: Using Node-RED with Raspberry Pi'
@@ -636,6 +630,12 @@
   item_date: "2016-12-14 00:00:00"
   title: How to Build a Raspberry Pi with Node-RED and Industrial GPIO
   url: http://blog.opto22.com/optoblog/how-to-build-a-raspberry-pi-with-node-red-and-industrial-gpio
+  domain: blog.opto22.com
+  image: ""
+- curated_id: e632e99f228d3030a2abf706ee832c0d
+  item_date: "2016-12-14 00:00:00"
+  title: "OptoNews:\_New\_PAC REST API\_video - exchange data with Access database"
+  url: http://blog.opto22.com/optoblog/optonews-new-pac-rest-api-video-exchange-data-with-access-database
   domain: blog.opto22.com
   image: ""
 - curated_id: 12d355affe5b1c55044a7d011e0f5d4a
@@ -754,22 +754,16 @@
   url: http://www.remotemagazine.com/main/markets/scada/blue-pillar-unlocks-the-value-of-behind-the-meter-data-and-control/
   domain: www.remotemagazine.com
   image: ""
-- curated_id: 5e7b241ba0c565beb770470b76898db4
-  item_date: "2017-02-07 00:00:00"
-  title: The Fog is Getting Thicker
-  url: http://www.remotemagazine.com/main/articles/the-fog-is-getting-thicker/
-  domain: www.remotemagazine.com
-  image: ""
 - curated_id: a0e24416ebf007f4f654e81ef4bfda01
   item_date: "2017-02-07 00:00:00"
   title: Open-loop vs. Closed-loop Process Control
   url: http://blog.opto22.com/optoblog/open-loop-vs.-closed-loop-process-control
   domain: blog.opto22.com
   image: ""
-- curated_id: 721c6ed269df86727c7db8a80bad1f35
+- curated_id: 5e7b241ba0c565beb770470b76898db4
   item_date: "2017-02-07 00:00:00"
-  title: Three Critical Uses of Data for Off-Grid Telecom Power
-  url: http://www.remotemagazine.com/main/articles/three-critical-uses-of-data-for-off-grid-telecom-power/
+  title: The Fog is Getting Thicker
+  url: http://www.remotemagazine.com/main/articles/the-fog-is-getting-thicker/
   domain: www.remotemagazine.com
   image: ""
 - curated_id: ebcda2cc6df554c0eac0b0e7a587092d
@@ -777,6 +771,12 @@
   title: OSIsoft and TrendMiner Sign OEM Agreement to Enhance Asset and Process Data
     Analytics Integration
   url: http://www.remotemagazine.com/main/news/osisoft-and-trendminer-sign-oem-agreement-to-enhance-asset-and-process-data-analytics-integration/
+  domain: www.remotemagazine.com
+  image: ""
+- curated_id: 721c6ed269df86727c7db8a80bad1f35
+  item_date: "2017-02-07 00:00:00"
+  title: Three Critical Uses of Data for Off-Grid Telecom Power
+  url: http://www.remotemagazine.com/main/articles/three-critical-uses-of-data-for-off-grid-telecom-power/
   domain: www.remotemagazine.com
   image: ""
 - curated_id: d3958e7128ee848098458b5eccfe70a0
@@ -804,6 +804,12 @@
   url: http://www.cxotoday.com/story/making-control-systems-connected-and-safe/
   domain: www.cxotoday.com
   image: ""
+- curated_id: c73a739075e54cf67d5a68c4f4deeba3
+  item_date: "2017-02-15 00:00:00"
+  title: 'OptoNews Tip: New groov API section for developers'
+  url: http://blog.opto22.com/optoblog/optonews-tip-new-groov-api-section-for-developers
+  domain: blog.opto22.com
+  image: ""
 - curated_id: bef7ba64e33b86c7517fa398d21fb24d
   item_date: "2017-02-15 00:00:00"
   title: 'OptoNews: CLI, transparent windows, and more now in PAC Project R9.6'
@@ -816,12 +822,6 @@
     For Solution Providers'
   url: http://www.crn.com/news/internet-of-things/video/300083769/schneider-electric-exec-data-analytics-in-iot-could-provide-a-windfall-for-solution-providers.htm
   domain: www.crn.com
-  image: ""
-- curated_id: c73a739075e54cf67d5a68c4f4deeba3
-  item_date: "2017-02-15 00:00:00"
-  title: 'OptoNews Tip: New groov API section for developers'
-  url: http://blog.opto22.com/optoblog/optonews-tip-new-groov-api-section-for-developers
-  domain: blog.opto22.com
   image: ""
 - curated_id: f7215f28e340138b4ae5c3db1afec653
   item_date: "2017-02-16 00:00:00"
@@ -885,12 +885,6 @@
   url: https://ics-cert.us-cert.gov/advisories/ICSA-17-073-01
   domain: ics-cert.us-cert.gov
   image: ""
-- curated_id: ee0ff731da69b4fe94b13566b20e73cc
-  item_date: "2017-03-21 00:00:00"
-  title: Rockwell Automation Connected Components Workbench
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-047-01
-  domain: ics-cert.us-cert.gov
-  image: ""
 - curated_id: 780ac1ba8fa74e653a2c89eddf0f0eaf
   item_date: "2017-03-21 00:00:00"
   title: Rockwell Automation FactoryTalk Activation
@@ -903,17 +897,23 @@
   url: http://blog.opto22.com/optoblog/social-engineering-your-automation-networks-largest-security-vulnerability
   domain: blog.opto22.com
   image: ""
-- curated_id: 49a0105ae7aa99f645ac78090156dc4c
-  item_date: "2017-03-21 00:00:00"
-  title: '3,000 Industrial Plants Per Year Infected with Malware '
-  url: http://www.darkreading.com/threat-intelligence/3000-industrial-plants-per-year-infected-with-malware-/d/d-id/1328444
-  domain: www.darkreading.com
-  image: ""
 - curated_id: 6af833ab7fb40653b487b3561041fb3b
   item_date: "2017-03-21 00:00:00"
   title: The Internet of Industrial Things at Connected World
   url: https://dzone.com/articles/the-internet-of-industrial-things
   domain: dzone.com
+  image: ""
+- curated_id: ee0ff731da69b4fe94b13566b20e73cc
+  item_date: "2017-03-21 00:00:00"
+  title: Rockwell Automation Connected Components Workbench
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-047-01
+  domain: ics-cert.us-cert.gov
+  image: ""
+- curated_id: 49a0105ae7aa99f645ac78090156dc4c
+  item_date: "2017-03-21 00:00:00"
+  title: '3,000 Industrial Plants Per Year Infected with Malware '
+  url: http://www.darkreading.com/threat-intelligence/3000-industrial-plants-per-year-infected-with-malware-/d/d-id/1328444
+  domain: www.darkreading.com
   image: ""
 - curated_id: 3d82addcf06d6d59c4c3d8089a9f7365
   item_date: "2017-03-22 00:00:00"
@@ -946,6 +946,12 @@
   url: http://www.remotemagazine.com/main/markets/security-channels/honeywell-launches-industrial-cyber-security-solution/
   domain: www.remotemagazine.com
   image: ""
+- curated_id: a356cedcf70937c4fa24647bcaaf6526
+  item_date: "2017-04-04 00:00:00"
+  title: Opportunities and Barriers in Industrial IoT
+  url: https://www.ariasystems.com/blog/opportunities-barriers-industrial-iot/
+  domain: www.ariasystems.com
+  image: ""
 - curated_id: fad1c5e1a7cde79ff37cbb498e788b7f
   item_date: "2017-04-04 00:00:00"
   title: Pluto AI raises $2.1 million to bring intelligence to water treatment
@@ -957,12 +963,6 @@
   title: Osterhout Design Group intros new wearable goggles for hazmat workers
   url: http://www.zdnet.com/article/osterhout-design-group-intros-new-wearable-googles-for-hazmat-workers/
   domain: www.zdnet.com
-  image: ""
-- curated_id: a356cedcf70937c4fa24647bcaaf6526
-  item_date: "2017-04-04 00:00:00"
-  title: Opportunities and Barriers in Industrial IoT
-  url: https://www.ariasystems.com/blog/opportunities-barriers-industrial-iot/
-  domain: www.ariasystems.com
   image: ""
 - curated_id: 600970d7a68b74c540b2c14388daea3c
   item_date: "2017-04-04 00:00:00"
@@ -983,28 +983,28 @@
   url: http://blog.opto22.com/optoblog/encryption-in-automation
   domain: blog.opto22.com
   image: ""
-- curated_id: 1db0d2367e1bce49e089224f201a0caa
-  item_date: "2017-04-12 00:00:00"
-  title: 'OptoNews: New pipes and fittings in the SVG library'
-  url: http://blog.opto22.com/optoblog/optonews-new-pipes-and-fittings-in-the-svg-library
-  domain: blog.opto22.com
-  image: ""
 - curated_id: b15ef5c8ca7387a615f445a973754ec3
   item_date: "2017-04-12 00:00:00"
   title: 'OptoNews: SCADA system for smaller water/wastewater districts'
   url: http://blog.opto22.com/optoblog/optonews-scada-system-for-smaller-water/wastewater-districts
   domain: blog.opto22.com
   image: ""
-- curated_id: 6ee08bb31fe127424c6c6f25f071ee9d
+- curated_id: 1db0d2367e1bce49e089224f201a0caa
   item_date: "2017-04-12 00:00:00"
-  title: 'OptoNews: Connect serial devices to your groov Box with Admin 46'
-  url: http://blog.opto22.com/optoblog/optonews-connect-serial-devices-to-your-groov-box-with-admin-46
+  title: 'OptoNews: New pipes and fittings in the SVG library'
+  url: http://blog.opto22.com/optoblog/optonews-new-pipes-and-fittings-in-the-svg-library
   domain: blog.opto22.com
   image: ""
 - curated_id: d7bc4544118d12cadc9cfdd5398d03f6
   item_date: "2017-04-12 00:00:00"
   title: 'OptoNews Tip: Two Ethernet interfaces - different on PACs  brains'
   url: http://blog.opto22.com/optoblog/optonews-tip-two-ethernet-interfaces-different-on-pacs-brains
+  domain: blog.opto22.com
+  image: ""
+- curated_id: 6ee08bb31fe127424c6c6f25f071ee9d
+  item_date: "2017-04-12 00:00:00"
+  title: 'OptoNews: Connect serial devices to your groov Box with Admin 46'
+  url: http://blog.opto22.com/optoblog/optonews-connect-serial-devices-to-your-groov-box-with-admin-46
   domain: blog.opto22.com
   image: ""
 - curated_id: e22fb0fa857bf3d7fca396edf9758688
@@ -1150,13 +1150,13 @@
 - curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_15c40df77f8:32328b1:1980c846
   item_date: "2017-05-25 07:11:00"
   title: PTC doubles down on the IIoT
-  url: http://www.businessinsider.com/ptc-doubles-down-on-the-iiot-2017-5?utm_source=feedly&amp;utm_medium=referral
+  url: http://www.businessinsider.com/ptc-doubles-down-on-the-iiot-2017-5?utm_source=feedly&utm_medium=referral
   domain: www.businessinsider.com
   image: ""
 - curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_15c40df77f8:32328b1:1980c846
   item_date: "2017-05-25 07:11:00"
   title: PTC doubles down on the IIoT
-  url: http://www.businessinsider.com/ptc-doubles-down-on-the-iiot-2017-5?utm_source=feedly&utm_medium=referral
+  url: http://www.businessinsider.com/ptc-doubles-down-on-the-iiot-2017-5?utm_source=feedly&amp;utm_medium=referral
   domain: www.businessinsider.com
   image: ""
 - curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_15c40df77f8:32328b1:1980c846
