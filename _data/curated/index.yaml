@@ -77,18 +77,18 @@
   url: https://ics-cert.us-cert.gov/advisories/ICSA-16-196-03
   domain: ics-cert.us-cert.gov
   image: ""
-- curated_id: c909df988c91db064ac5834516d919c6
-  item_date: "2016-07-18 00:00:00"
-  title: Orange Business Services helps Sensile Technologies Remotely Monitor Oil
-    and Gas Tanks with M2M Connectivity
-  url: http://www.remotemagazine.com/main/news/orange-business-services-helps-sensile-technologies-remotely-monitor-oil-and-gas-tanks-with-m2m-connectivity/
-  domain: www.remotemagazine.com
-  image: ""
 - curated_id: ee14dfdf659df274402a63ab25248c99
   item_date: "2016-07-18 00:00:00"
   title: aeShield for Process Safety Lifecycle Management Selected by BP for All Upstream
     Facilities
   url: http://www.remotemagazine.com/main/news/aeshield-for-process-safety-lifecycle-management-selected-by-bp-for-all-upstream-facilities/
+  domain: www.remotemagazine.com
+  image: ""
+- curated_id: c909df988c91db064ac5834516d919c6
+  item_date: "2016-07-18 00:00:00"
+  title: Orange Business Services helps Sensile Technologies Remotely Monitor Oil
+    and Gas Tanks with M2M Connectivity
+  url: http://www.remotemagazine.com/main/news/orange-business-services-helps-sensile-technologies-remotely-monitor-oil-and-gas-tanks-with-m2m-connectivity/
   domain: www.remotemagazine.com
   image: ""
 - curated_id: c09db80b04f3bbe9ddede4b65a54fa63
@@ -97,16 +97,16 @@
   url: https://dzone.com/articles/kura-wires
   domain: dzone.com
   image: ""
-- curated_id: a2d744e80027f8adbd0d244a36618750
-  item_date: "2016-07-20 00:00:00"
-  title: IXXAT CAN@net NT 200 ? The Multi-Functional CAN-to-Ethernet Gateway
-  url: http://www.remotemagazine.com/main/markets/networkingtelemetry/ixxat-cannet-nt-200-the-multi-functional-can-to-ethernet-gateway/
-  domain: www.remotemagazine.com
-  image: ""
 - curated_id: a729873dda06cc8758c6eb7636087825
   item_date: "2016-07-20 00:00:00"
   title: Advantech Launches Cloud Enabled Micro IoT Gateway Industrial Computer
   url: http://www.remotemagazine.com/main/markets/networkingtelemetry/advantech-launches-cloud-enabled-micro-iot-gateway-industrial-computer/
+  domain: www.remotemagazine.com
+  image: ""
+- curated_id: a2d744e80027f8adbd0d244a36618750
+  item_date: "2016-07-20 00:00:00"
+  title: IXXAT CAN@net NT 200 ? The Multi-Functional CAN-to-Ethernet Gateway
+  url: http://www.remotemagazine.com/main/markets/networkingtelemetry/ixxat-cannet-nt-200-the-multi-functional-can-to-ethernet-gateway/
   domain: www.remotemagazine.com
   image: ""
 - curated_id: 4a443492f6334d7b3ccec967c6cc4bd4
@@ -115,17 +115,17 @@
   url: http://www.programmableweb.com/news/how-developers-can-prepare-industrial-internet-things/analysis/2016/07/21
   domain: www.programmableweb.com
   image: ""
-- curated_id: 290a9bf339878bebcafeeb296f6dd688
-  item_date: "2016-08-02 00:00:00"
-  title: The Road to Building Industrial IoT Solutions
-  url: http://www.codeproject.com/Articles/1115641/The-Road-to-Building-Industrial-IoT-Solutions
-  domain: www.codeproject.com
-  image: ""
 - curated_id: fe9acce7877835ebf33651eb3ae40b6e
   item_date: "2016-08-02 00:00:00"
   title: Caterpillar Expands Scope and Capability of Energy Rental Solutions
   url: http://www.remotemagazine.com/main/markets/power/caterpillar-expands-scope-and-capability-of-energy-rental-solutions/
   domain: www.remotemagazine.com
+  image: ""
+- curated_id: 290a9bf339878bebcafeeb296f6dd688
+  item_date: "2016-08-02 00:00:00"
+  title: The Road to Building Industrial IoT Solutions
+  url: http://www.codeproject.com/Articles/1115641/The-Road-to-Building-Industrial-IoT-Solutions
+  domain: www.codeproject.com
   image: ""
 - curated_id: 6512e0491901adb47aa773553967a9d5
   item_date: "2016-08-03 00:00:00"
@@ -146,6 +146,12 @@
   url: http://www.bbc.co.uk/news/technology-37001301
   domain: www.bbc.co.uk
   image: ""
+- curated_id: 18c1e4f5b1c7b3749d89035c5091fe0a
+  item_date: "2016-08-08 00:00:00"
+  title: Multichannel Circuit Breakers for CID2 Use
+  url: http://www.remotemagazine.com/main/markets/power/multichannel-circuit-breakers-for-cid2-use/
+  domain: www.remotemagazine.com
+  image: ""
 - curated_id: 89af28889d478e882914537ed750a3ec
   item_date: "2016-08-08 00:00:00"
   title: HoneyWell Launches MidStream Natural Gas Measurement Portfolio
@@ -158,10 +164,11 @@
   url: http://www.darkreading.com/partner-perspectives/intel/guarding-the-grid/a/d-id/1326530
   domain: www.darkreading.com
   image: ""
-- curated_id: 18c1e4f5b1c7b3749d89035c5091fe0a
-  item_date: "2016-08-08 00:00:00"
-  title: Multichannel Circuit Breakers for CID2 Use
-  url: http://www.remotemagazine.com/main/markets/power/multichannel-circuit-breakers-for-cid2-use/
+- curated_id: a58bfa19a7fd9e66c0a1971450c4bd9e
+  item_date: "2016-08-11 00:00:00"
+  title: National Water Utility Improves Operations with Integrated Milestone Video
+    and LPR
+  url: http://www.remotemagazine.com/main/news/national-water-utility-improves-operations-with-integrated-milestone-video-and-lpr/
   domain: www.remotemagazine.com
   image: ""
 - curated_id: 2cc653c0185ccaa389c5bdbc53ee15f8
@@ -170,13 +177,6 @@
   url: https://ics-cert.us-cert.gov/advisories/ICSA-16-224-01
   domain: ics-cert.us-cert.gov
   image: ""
-- curated_id: a58bfa19a7fd9e66c0a1971450c4bd9e
-  item_date: "2016-08-11 00:00:00"
-  title: National Water Utility Improves Operations with Integrated Milestone Video
-    and LPR
-  url: http://www.remotemagazine.com/main/news/national-water-utility-improves-operations-with-integrated-milestone-video-and-lpr/
-  domain: www.remotemagazine.com
-  image: ""
 - curated_id: 883103cdfa7f9e11ed1c5c58ca370bee
   item_date: "2016-08-16 00:00:00"
   title: SignalFire New Firmware Adds AES-128 Encryption to its Wireless Remote Monitoring
@@ -184,17 +184,17 @@
   url: http://www.remotemagazine.com/main/markets/security-channels/signalfire-new-firmware-adds-aes-128-encryption-to-its-wireless-remote-monitoring-product-line/
   domain: www.remotemagazine.com
   image: ""
-- curated_id: de470e9b11bef87e974b84d6b0bb50bc
-  item_date: "2016-08-17 00:00:00"
-  title: 'OptoNews Tip: Whats a RESTful API and why does it matter?'
-  url: http://blog.opto22.com/optoblog/optonews-tip-whats-a-restful-api-and-why-does-it-matter
-  domain: blog.opto22.com
-  image: ""
 - curated_id: dd5a0ea13418d296d37cef31453639be
   item_date: "2016-08-17 00:00:00"
   title: Efficient engineering with TIA and virtual commissioning
   url: https://blogs.siemens.com/competitive-industries/stories/32519/
   domain: blogs.siemens.com
+  image: ""
+- curated_id: de470e9b11bef87e974b84d6b0bb50bc
+  item_date: "2016-08-17 00:00:00"
+  title: 'OptoNews Tip: Whats a RESTful API and why does it matter?'
+  url: http://blog.opto22.com/optoblog/optonews-tip-whats-a-restful-api-and-why-does-it-matter
+  domain: blog.opto22.com
   image: ""
 - curated_id: e3cf8c5c6b1ce2084245b25e20a720ac
   item_date: "2016-08-19 00:00:00"
@@ -233,16 +233,16 @@
   url: http://www.remotemagazine.com/main/markets/scada/scadaware-introduces-new-production-monitoring-product/
   domain: www.remotemagazine.com
   image: ""
-- curated_id: 0e0857cf124a268c65fb5df016711852
-  item_date: "2016-08-31 00:00:00"
-  title: 'OptoNews: Operators monitor refrigeration remotely'
-  url: http://blog.opto22.com/optoblog/optonews-operators-monitor-refrigeration-remotely
-  domain: blog.opto22.com
-  image: ""
 - curated_id: ef3ba30108315133f3a322a407a0c577
   item_date: "2016-08-31 00:00:00"
   title: 'OptoNews Tip: Peer-to-peer with REST'
   url: http://blog.opto22.com/optoblog/optonews-tip-peer-to-peer-with-rest
+  domain: blog.opto22.com
+  image: ""
+- curated_id: 0e0857cf124a268c65fb5df016711852
+  item_date: "2016-08-31 00:00:00"
+  title: 'OptoNews: Operators monitor refrigeration remotely'
+  url: http://blog.opto22.com/optoblog/optonews-operators-monitor-refrigeration-remotely
   domain: blog.opto22.com
   image: ""
 - curated_id: e3a06ea9e9210786680ca2d05736b401
@@ -251,16 +251,16 @@
   url: https://www.ge.com/digital/blog/reinventing-value-chain-age-industrial-internet
   domain: www.ge.com
   image: ""
-- curated_id: f2006a983d5776ed00eefb1514365ac9
-  item_date: "2016-09-01 00:30:09"
-  title: Wirepas, U-Blox launch industrial IoT radio module
-  url: http://readwrite.com/2016/08/31/wirepas-u-blox-iot-module-it4
-  domain: readwrite.com
-  image: ""
 - curated_id: b1b1a76f252214b59455e9b28fec5d85
   item_date: "2016-09-01 00:30:09"
   title: Wirepas, U-Blox launch industrial IoT radio module
   url: http://readwrite.com/2016/08/31/wirepas-u-blox-iot-module-it4/
+  domain: readwrite.com
+  image: ""
+- curated_id: f2006a983d5776ed00eefb1514365ac9
+  item_date: "2016-09-01 00:30:09"
+  title: Wirepas, U-Blox launch industrial IoT radio module
+  url: http://readwrite.com/2016/08/31/wirepas-u-blox-iot-module-it4
   domain: readwrite.com
   image: ""
 - curated_id: c89a7c605eed665a1a53560bbef7b7a5
@@ -276,6 +276,12 @@
   url: http://hydraulicspneumatics.com/controls-instrumentation/achieve-flexible-precise-control-32-motion-axes
   domain: hydraulicspneumatics.com
   image: ""
+- curated_id: 66cfcbe0b060dfea1420d3ec32ce3a18
+  item_date: "2016-09-12 00:00:00"
+  title: Imagine H2O Water Policy Challenge to Promote Data Solutions in California
+  url: http://www.remotemagazine.com/main/news/imagine-h2o-water-policy-challenge-to-promote-data-solutions-in-california/
+  domain: www.remotemagazine.com
+  image: ""
 - curated_id: 0973fa762b11deaa2824bd1da5d15d69
   item_date: "2016-09-12 00:00:00"
   title: SignalFire Introduces Wireless Pressure Scout For Remote Pressure Monitoring
@@ -283,11 +289,37 @@
   url: http://www.remotemagazine.com/main/markets/data-acquisition/signalfire-introduces-wireless-pressure-scout-for-remote-pressure-monitoring-and-alarm-applications/
   domain: www.remotemagazine.com
   image: ""
-- curated_id: 66cfcbe0b060dfea1420d3ec32ce3a18
-  item_date: "2016-09-12 00:00:00"
-  title: Imagine H2O Water Policy Challenge to Promote Data Solutions in California
-  url: http://www.remotemagazine.com/main/news/imagine-h2o-water-policy-challenge-to-promote-data-solutions-in-california/
+- curated_id: fef2852d6f878688a32ed5e8f6163af0
+  item_date: "2016-09-13 00:00:00"
+  title: Intelligent and Cyber Secure Standalone Power Supply from Bedrock Automation
+    is Built to Last a Lifetime and Deliver on the IIoT Promise
+  url: http://www.remotemagazine.com/main/markets/power/intelligent-and-cyber-secure-standalone-power-supply-from-bedrock-automation-is-built-to-last-a-lifetime-and-deliver-on-the-iiot-promise/
   domain: www.remotemagazine.com
+  image: ""
+- curated_id: 1d66fbda9caa1479d4f2f67e3327f56c
+  item_date: "2016-09-13 00:00:00"
+  title: 'Cyber security in mining: managing risk amongst disruption'
+  url: https://exchange.telstra.com.au/2016/09/14/cyber-security-mining-managing-risk-amongst-disruption/
+  domain: exchange.telstra.com.au
+  image: ""
+- curated_id: 14349cf0e25beea70ee78290ce7c8c68
+  item_date: "2016-09-13 00:00:00"
+  title: Startup Focuses On Real-Time Security Monitoring Of Plant Networks
+  url: http://www.darkreading.com/cloud/startup-focuses-on-real-time-security-monitoring-of-plant-networks/d/d-id/1326887
+  domain: www.darkreading.com
+  image: ""
+- curated_id: b9414841f42daae7ccc47bad383d80b9
+  item_date: "2016-09-13 00:00:00"
+  title: Eaton?s 3-Volt Supercapacitor Cells Provide Increased Energy Capacity, Cost
+    Savings
+  url: http://www.remotemagazine.com/main/markets/power/eatons-3-volt-supercapacitor-cells-provide-increased-energy-capacity-cost-savings/
+  domain: www.remotemagazine.com
+  image: ""
+- curated_id: 2ac3c361102d24d07c69b6ad03a4cff6
+  item_date: "2016-09-13 00:00:00"
+  title: 'Honeywell asks: Whats holding back industrial investment in data analytics?'
+  url: http://www.zdnet.com/article/honeywell-asks-whats-holding-back-industrial-investment-in-data-analytics/
+  domain: www.zdnet.com
   image: ""
 - curated_id: f612ee7264fe3d1c7ff463a1bcfa4074
   item_date: "2016-09-13 00:00:00"
@@ -301,38 +333,6 @@
     Cybersecurity with Defense-in-Depth Strategies'
   url: https://ics-cert.us-cert.gov/ICS-CERT-releases-Recommended-Practice-Improving-Industrial-Control-System-Cybersecurity-Defense
   domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: 2ac3c361102d24d07c69b6ad03a4cff6
-  item_date: "2016-09-13 00:00:00"
-  title: 'Honeywell asks: Whats holding back industrial investment in data analytics?'
-  url: http://www.zdnet.com/article/honeywell-asks-whats-holding-back-industrial-investment-in-data-analytics/
-  domain: www.zdnet.com
-  image: ""
-- curated_id: b9414841f42daae7ccc47bad383d80b9
-  item_date: "2016-09-13 00:00:00"
-  title: Eaton?s 3-Volt Supercapacitor Cells Provide Increased Energy Capacity, Cost
-    Savings
-  url: http://www.remotemagazine.com/main/markets/power/eatons-3-volt-supercapacitor-cells-provide-increased-energy-capacity-cost-savings/
-  domain: www.remotemagazine.com
-  image: ""
-- curated_id: fef2852d6f878688a32ed5e8f6163af0
-  item_date: "2016-09-13 00:00:00"
-  title: Intelligent and Cyber Secure Standalone Power Supply from Bedrock Automation
-    is Built to Last a Lifetime and Deliver on the IIoT Promise
-  url: http://www.remotemagazine.com/main/markets/power/intelligent-and-cyber-secure-standalone-power-supply-from-bedrock-automation-is-built-to-last-a-lifetime-and-deliver-on-the-iiot-promise/
-  domain: www.remotemagazine.com
-  image: ""
-- curated_id: 14349cf0e25beea70ee78290ce7c8c68
-  item_date: "2016-09-13 00:00:00"
-  title: Startup Focuses On Real-Time Security Monitoring Of Plant Networks
-  url: http://www.darkreading.com/cloud/startup-focuses-on-real-time-security-monitoring-of-plant-networks/d/d-id/1326887
-  domain: www.darkreading.com
-  image: ""
-- curated_id: 1d66fbda9caa1479d4f2f67e3327f56c
-  item_date: "2016-09-13 00:00:00"
-  title: 'Cyber security in mining: managing risk amongst disruption'
-  url: https://exchange.telstra.com.au/2016/09/14/cyber-security-mining-managing-risk-amongst-disruption/
-  domain: exchange.telstra.com.au
   image: ""
 - curated_id: acaf62e685e81cfa393a0d84da73b7d2
   item_date: "2016-09-13 12:00:12"
@@ -368,17 +368,17 @@
   url: https://twitter.com/opto22/statuses/776885477605568512
   domain: twitter.com
   image: ""
-- curated_id: da6738bde0a4b54c78d44deb31bc55b1
-  item_date: "2016-09-19 00:00:00"
-  title: Industrial IoT is inching toward a consensus on security
-  url: http://www.pcworld.com/article/3122128/industrial-iot-is-inching-toward-a-consensus-on-security.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
 - curated_id: 2dfad644810d234dcd990f119066977d
   item_date: "2016-09-19 00:00:00"
   title: Industrial Internet Consortium Delivers Industrial Internet Security Framework
   url: https://dzone.com/articles/industrial-internet-consortium-delivers-industrial
   domain: dzone.com
+  image: ""
+- curated_id: da6738bde0a4b54c78d44deb31bc55b1
+  item_date: "2016-09-19 00:00:00"
+  title: Industrial IoT is inching toward a consensus on security
+  url: http://www.pcworld.com/article/3122128/industrial-iot-is-inching-toward-a-consensus-on-security.html#tk.rss_all
+  domain: www.pcworld.com
   image: ""
 - curated_id: f2444389c9a371a0f9c5484e8f860d19
   item_date: "2016-09-20 00:00:00"
@@ -393,6 +393,20 @@
   url: https://blogs.siemens.com/competitive-industries/stories/33366/
   domain: blogs.siemens.com
   image: ""
+- curated_id: 814561384e0499d3b5adc09ee7caff97
+  item_date: "2016-09-22 00:00:00"
+  title: Advanced Microgrid Solutions and Opus One Announce $12.4 Million North American
+    Multi-Utility Microgrid Project
+  url: http://www.remotemagazine.com/main/news/advanced-microgrid-solutions-and-opus-one-announce-12-4-million-north-american-multi-utility-microgrid-project/
+  domain: www.remotemagazine.com
+  image: ""
+- curated_id: ff689e595233f3f28d85431f48ed0e19
+  item_date: "2016-09-22 00:00:00"
+  title: Bedrock Control System Provides Cyber Secure SCADA RTU Platform for Clarksville
+    Light  Water
+  url: http://www.remotemagazine.com/main/news/bedrock-control-system-provides-cyber-secure-scada-rtu-platform-for-clarksville-light-water/
+  domain: www.remotemagazine.com
+  image: ""
 - curated_id: dc2e70eabcdaad5a6c1ca60af2e8a53f
   item_date: "2016-09-22 00:00:00"
   title: Equipment manufacturers embrace AgGateway?s ADAPT
@@ -405,19 +419,11 @@
   url: http://www.remotemagazine.com/main/markets/scada/ge-releases-its-industrial-internet-control-system/
   domain: www.remotemagazine.com
   image: ""
-- curated_id: ff689e595233f3f28d85431f48ed0e19
-  item_date: "2016-09-22 00:00:00"
-  title: Bedrock Control System Provides Cyber Secure SCADA RTU Platform for Clarksville
-    Light  Water
-  url: http://www.remotemagazine.com/main/news/bedrock-control-system-provides-cyber-secure-scada-rtu-platform-for-clarksville-light-water/
-  domain: www.remotemagazine.com
-  image: ""
-- curated_id: 814561384e0499d3b5adc09ee7caff97
-  item_date: "2016-09-22 00:00:00"
-  title: Advanced Microgrid Solutions and Opus One Announce $12.4 Million North American
-    Multi-Utility Microgrid Project
-  url: http://www.remotemagazine.com/main/news/advanced-microgrid-solutions-and-opus-one-announce-12-4-million-north-american-multi-utility-microgrid-project/
-  domain: www.remotemagazine.com
+- curated_id: 53aa65fdbdd7d17880225b5991bac1b3
+  item_date: "2016-09-23 00:00:00"
+  title: Aerial and Ground Operation Intelligence for Mining Operations
+  url: http://www.mining-technology.com/contractors/communications/rigid-robotics/
+  domain: www.mining-technology.com
   image: ""
 - curated_id: e5204617a7c7fe8d4ee590b60abe2c32
   item_date: "2016-09-23 00:00:00"
@@ -426,18 +432,19 @@
   url: https://blogs.siemens.com/mediaservice-industries-en/stories/31762/
   domain: blogs.siemens.com
   image: ""
-- curated_id: 53aa65fdbdd7d17880225b5991bac1b3
-  item_date: "2016-09-23 00:00:00"
-  title: Aerial and Ground Operation Intelligence for Mining Operations
-  url: http://www.mining-technology.com/contractors/communications/rigid-robotics/
-  domain: www.mining-technology.com
-  image: ""
 - curated_id: 442c19ccf1cc28823678dfa49cdadc51
   item_date: "2016-09-26 00:00:00"
   title: Japans Tepco and GE to Launch Digital Transformation of Utilitys Fleet of
     Thermal-Powered Stations
   url: http://www.remotemagazine.com/main/news/japans-tepco-and-ge-to-launch-digital-transformation-of-utilitys-fleet-of-thermal-powered-stations/
   domain: www.remotemagazine.com
+  image: ""
+- curated_id: acb90f61828a34507f85b44ef1d1fa21
+  item_date: "2016-09-27 00:00:00"
+  title: Around the clock - Automotive supplier optimizes hot dip galvanizing plant
+    with Siemens Scada system
+  url: https://blogs.siemens.com/mediaservice-industries-en/stories/32806/
+  domain: blogs.siemens.com
   image: ""
 - curated_id: 5fac60be942aceef8cdeb8daa170625f
   item_date: "2016-09-27 00:00:00"
@@ -450,13 +457,6 @@
   title: Siemens SCALANCE M-800/S615 Web Vulnerability
   url: https://ics-cert.us-cert.gov/advisories/ICSA-16-271-01
   domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: acb90f61828a34507f85b44ef1d1fa21
-  item_date: "2016-09-27 00:00:00"
-  title: Around the clock - Automotive supplier optimizes hot dip galvanizing plant
-    with Siemens Scada system
-  url: https://blogs.siemens.com/mediaservice-industries-en/stories/32806/
-  domain: blogs.siemens.com
   image: ""
 - curated_id: 2d67b465f82d39649e2864522dc068e4
   item_date: "2016-09-28 00:00:00"
@@ -512,6 +512,13 @@
   url: http://blog.opto22.com/optoblog/optonews-connecting-industrial-devices-to-ibm-watson-iot
   domain: blog.opto22.com
   image: ""
+- curated_id: ff691cda84f106015b553ec8e2d998f6
+  item_date: "2016-10-13 00:00:00"
+  title: Seeq Releases R15 Adds SQL Server Integration, Historian Support, and Ease
+    of Use Features
+  url: http://www.remotemagazine.com/main/news/seeq-releases-r15-adds-sql-server-integration-historian-support-and-ease-of-use-features/
+  domain: www.remotemagazine.com
+  image: ""
 - curated_id: 8660d7c2330559ec2ad48befda820519
   item_date: "2016-10-13 00:00:00"
   title: Rockwell Automation Stratix Denial-of-Service and Memory Leak Vulnerabilities
@@ -524,11 +531,10 @@
   url: http://www.remotemagazine.com/main/markets/scada/hms-to-offer-netbiter-remote-management-solution-under-the-ewon-brand/
   domain: www.remotemagazine.com
   image: ""
-- curated_id: ff691cda84f106015b553ec8e2d998f6
-  item_date: "2016-10-13 00:00:00"
-  title: Seeq Releases R15 Adds SQL Server Integration, Historian Support, and Ease
-    of Use Features
-  url: http://www.remotemagazine.com/main/news/seeq-releases-r15-adds-sql-server-integration-historian-support-and-ease-of-use-features/
+- curated_id: d9b6177ef5392ccee50567ace21591be
+  item_date: "2016-10-18 00:00:00"
+  title: Backup Battery Power ? What to Know Before  After the Storm
+  url: http://www.remotemagazine.com/main/articles/backup-battery-power-what-to-know-before-after-the-storm/
   domain: www.remotemagazine.com
   image: ""
 - curated_id: 0be3c7aaf755256bd7f4895f41adf250
@@ -536,12 +542,6 @@
   title: Senet Announces Coverage in 10 Additional Major Metropolitan Areas of the
     US
   url: http://www.remotemagazine.com/main/news/senet-announces-coverage-in-10-additional-major-metropolitan-areas-of-the-us/
-  domain: www.remotemagazine.com
-  image: ""
-- curated_id: d9b6177ef5392ccee50567ace21591be
-  item_date: "2016-10-18 00:00:00"
-  title: Backup Battery Power ? What to Know Before  After the Storm
-  url: http://www.remotemagazine.com/main/articles/backup-battery-power-what-to-know-before-after-the-storm/
   domain: www.remotemagazine.com
   image: ""
 - curated_id: 5a47860a1f8d8a15939b26e94fe43af7
@@ -570,18 +570,18 @@
   url: http://www.sky-futures.com/news-updates/the-importance-of-industrial-experience-when-enabling-enterprise-with-drone-capabilities/
   domain: www.sky-futures.com
   image: ""
-- curated_id: 8514ba23d25ea77ae64c5f11e90252f9
-  item_date: "2016-11-02 00:00:00"
-  title: When It Comes to IoT Security for Remote Equipment, Think About All the Moving
-    Parts
-  url: http://www.remotemagazine.com/main/articles/when-it-comes-to-iot-security-for-remote-equipment-think-about-all-the-moving-parts/
-  domain: www.remotemagazine.com
-  image: ""
 - curated_id: 1738c1aeb21630c3a6f0a57361fd2bf5
   item_date: "2016-11-02 00:00:00"
   title: Janus Announces ATT and PTCRB Certification of their LTE910CF v1.00 Plug-In
     Cellular Modem
   url: http://www.remotemagazine.com/main/markets/networkingtelemetry/janus-announces-att-and-ptcrb-certification-of-their-lte910cf-v1-00-plug-in-cellular-modem/
+  domain: www.remotemagazine.com
+  image: ""
+- curated_id: 8514ba23d25ea77ae64c5f11e90252f9
+  item_date: "2016-11-02 00:00:00"
+  title: When It Comes to IoT Security for Remote Equipment, Think About All the Moving
+    Parts
+  url: http://www.remotemagazine.com/main/articles/when-it-comes-to-iot-security-for-remote-equipment-think-about-all-the-moving-parts/
   domain: www.remotemagazine.com
   image: ""
 - curated_id: 86265228529f4cc5b1d9b6d03c63a358
@@ -590,16 +590,16 @@
   url: http://whatissaid.com/news_stories/business/2016/11/herddogg-inc-introduces-remote-sensing-technology-for-precision_614581.html
   domain: whatissaid.com
   image: ""
-- curated_id: 819c38faa1d1d0c988029b5c6062dac6
-  item_date: "2016-11-10 00:00:00"
-  title: 'OptoNews: New Node-RED OptoForum opens'
-  url: http://blog.opto22.com/optoblog/optonews-new-node-red-optoforum-opens
-  domain: blog.opto22.com
-  image: ""
 - curated_id: 5f39f48ca8f134c935b9eeff49910e69
   item_date: "2016-11-10 00:00:00"
   title: 'OptoNews Tip: Share SNAP PAC data with Excel or Access'
   url: http://blog.opto22.com/optoblog/optonews-tip-share-snap-pac-data-with-excel-or-access
+  domain: blog.opto22.com
+  image: ""
+- curated_id: 819c38faa1d1d0c988029b5c6062dac6
+  item_date: "2016-11-10 00:00:00"
+  title: 'OptoNews: New Node-RED OptoForum opens'
+  url: http://blog.opto22.com/optoblog/optonews-new-node-red-optoforum-opens
   domain: blog.opto22.com
   image: ""
 - curated_id: 0b52f3fbf3abc11b6ba79a1532e9eab1
@@ -608,17 +608,23 @@
   url: http://www.cxotoday.com/story/using-big-data-to-boost-oil-industry/
   domain: www.cxotoday.com
   image: ""
+- curated_id: 1bcb28e0b863b9e6841bbb7bf3715adf
+  item_date: "2016-12-13 00:00:00"
+  title: Siemens SIMATIC WinCC and SIMATIC PCS 7 ActiveX Vulnerability
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-348-04
+  domain: ics-cert.us-cert.gov
+  image: ""
 - curated_id: 37dee177e2b4ea5f6f18e03583058502
   item_date: "2016-12-13 00:00:00"
   title: Siemens S7-300/400 PLC Vulnerabilities
   url: https://ics-cert.us-cert.gov/advisories/ICSA-16-348-05
   domain: ics-cert.us-cert.gov
   image: ""
-- curated_id: 1bcb28e0b863b9e6841bbb7bf3715adf
-  item_date: "2016-12-13 00:00:00"
-  title: Siemens SIMATIC WinCC and SIMATIC PCS 7 ActiveX Vulnerability
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-348-04
-  domain: ics-cert.us-cert.gov
+- curated_id: e632e99f228d3030a2abf706ee832c0d
+  item_date: "2016-12-14 00:00:00"
+  title: "OptoNews:\_New\_PAC REST API\_video - exchange data with Access database"
+  url: http://blog.opto22.com/optoblog/optonews-new-pac-rest-api-video-exchange-data-with-access-database
+  domain: blog.opto22.com
   image: ""
 - curated_id: 9cb4a557a6f8c2cb43f890552e4cf56f
   item_date: "2016-12-14 00:00:00"
@@ -630,12 +636,6 @@
   item_date: "2016-12-14 00:00:00"
   title: How to Build a Raspberry Pi with Node-RED and Industrial GPIO
   url: http://blog.opto22.com/optoblog/how-to-build-a-raspberry-pi-with-node-red-and-industrial-gpio
-  domain: blog.opto22.com
-  image: ""
-- curated_id: e632e99f228d3030a2abf706ee832c0d
-  item_date: "2016-12-14 00:00:00"
-  title: "OptoNews:\_New\_PAC REST API\_video - exchange data with Access database"
-  url: http://blog.opto22.com/optoblog/optonews-new-pac-rest-api-video-exchange-data-with-access-database
   domain: blog.opto22.com
   image: ""
 - curated_id: 12d355affe5b1c55044a7d011e0f5d4a
@@ -657,17 +657,17 @@
   url: http://blog.opto22.com/optoblog/optonews-data-from-databases-online-services-in-your-groov-mobile-interface
   domain: blog.opto22.com
   image: ""
-- curated_id: 9abe545331175a325f9ebe58c970b358
-  item_date: "2017-01-05 00:00:00"
-  title: Rockwell Automation MicroLogix 1100 and 1400 Vulnerabilities
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-336-06
-  domain: ics-cert.us-cert.gov
-  image: ""
 - curated_id: 8954c8ed7bf7ff972470ef5e88016d6d
   item_date: "2017-01-05 00:00:00"
   title: Rockwell Automation Logix5000 Programmable Automation Controller Buffer Overflow
     Vulnerability
   url: https://ics-cert.us-cert.gov/advisories/ICSA-16-343-05
+  domain: ics-cert.us-cert.gov
+  image: ""
+- curated_id: 9abe545331175a325f9ebe58c970b358
+  item_date: "2017-01-05 00:00:00"
+  title: Rockwell Automation MicroLogix 1100 and 1400 Vulnerabilities
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-336-06
   domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: 6700ddac04d34235ef514e7550ce832c
@@ -694,17 +694,17 @@
   url: http://blog.opto22.com/optoblog/fundamental-security-features-for-industrial-assets
   domain: blog.opto22.com
   image: ""
-- curated_id: a91978168d2f4adbe87bb20c1197ff57
-  item_date: "2017-01-18 00:00:00"
-  title: 'OptoNews: New blog posts on security in automation'
-  url: http://blog.opto22.com/optoblog/optonews-new-blog-posts-on-security-in-automation
-  domain: blog.opto22.com
-  image: ""
 - curated_id: 7a147b772122e1abd0a16913c71579f3
   item_date: "2017-01-18 00:00:00"
   title: Monitoring a Dam Under Construction
   url: http://www.remotemagazine.com/main/news/monitoring-a-dam-under-construction/
   domain: www.remotemagazine.com
+  image: ""
+- curated_id: a91978168d2f4adbe87bb20c1197ff57
+  item_date: "2017-01-18 00:00:00"
+  title: 'OptoNews: New blog posts on security in automation'
+  url: http://blog.opto22.com/optoblog/optonews-new-blog-posts-on-security-in-automation
+  domain: blog.opto22.com
   image: ""
 - curated_id: 79662a4afda8a21570fafeffb1d9cdb5
   item_date: "2017-01-19 00:00:00"
@@ -712,22 +712,16 @@
   url: http://blog.opto22.com/optoblog/integrating-cyber-security-considerations-into-automation-acquisitions
   domain: blog.opto22.com
   image: ""
-- curated_id: 6adca537dc714972500ae1a8a4753949
-  item_date: "2017-01-30 00:00:00"
-  title: Integration of Siemens S7 Data in IoT Cloud Solutions
-  url: http://www.remotemagazine.com/main/markets/networkingtelemetry/integration-of-siemens-s7-data-in-iot-cloud-solutions/
-  domain: www.remotemagazine.com
-  image: ""
 - curated_id: bfc2cd13a8abca0de9c09deabb152673
   item_date: "2017-01-30 00:00:00"
   title: Itron and BSquare First to Provide App Community for Grid Edge Devices
   url: http://www.remotemagazine.com/main/markets/scada/itron-and-bsquare-first-to-provide-app-community-for-grid-edge-devices/
   domain: www.remotemagazine.com
   image: ""
-- curated_id: dbd5568e92366284b232a307b81bb4f0
-  item_date: "2017-01-31 00:00:00"
-  title: AQUARIUS Time-Series Deployed by U.S. Geological Survey in Private Cloud
-  url: http://www.remotemagazine.com/main/news/aquarius-time-series-deployed-by-u-s-geological-survey-in-private-cloud/
+- curated_id: 6adca537dc714972500ae1a8a4753949
+  item_date: "2017-01-30 00:00:00"
+  title: Integration of Siemens S7 Data in IoT Cloud Solutions
+  url: http://www.remotemagazine.com/main/markets/networkingtelemetry/integration-of-siemens-s7-data-in-iot-cloud-solutions/
   domain: www.remotemagazine.com
   image: ""
 - curated_id: 5eb4b80ad5f2e5bce174026358c369c5
@@ -742,6 +736,12 @@
   url: http://www.remotemagazine.com/main/news/mprest-completes-project-with-israel-electric-corp/
   domain: www.remotemagazine.com
   image: ""
+- curated_id: dbd5568e92366284b232a307b81bb4f0
+  item_date: "2017-01-31 00:00:00"
+  title: AQUARIUS Time-Series Deployed by U.S. Geological Survey in Private Cloud
+  url: http://www.remotemagazine.com/main/news/aquarius-time-series-deployed-by-u-s-geological-survey-in-private-cloud/
+  domain: www.remotemagazine.com
+  image: ""
 - curated_id: e1773809bdd13f4d0625d9fc13e75555
   item_date: "2017-02-01 00:00:00"
   title: Hardware and Measurement Abstraction Layers
@@ -754,6 +754,19 @@
   url: http://www.remotemagazine.com/main/markets/scada/blue-pillar-unlocks-the-value-of-behind-the-meter-data-and-control/
   domain: www.remotemagazine.com
   image: ""
+- curated_id: 721c6ed269df86727c7db8a80bad1f35
+  item_date: "2017-02-07 00:00:00"
+  title: Three Critical Uses of Data for Off-Grid Telecom Power
+  url: http://www.remotemagazine.com/main/articles/three-critical-uses-of-data-for-off-grid-telecom-power/
+  domain: www.remotemagazine.com
+  image: ""
+- curated_id: ebcda2cc6df554c0eac0b0e7a587092d
+  item_date: "2017-02-07 00:00:00"
+  title: OSIsoft and TrendMiner Sign OEM Agreement to Enhance Asset and Process Data
+    Analytics Integration
+  url: http://www.remotemagazine.com/main/news/osisoft-and-trendminer-sign-oem-agreement-to-enhance-asset-and-process-data-analytics-integration/
+  domain: www.remotemagazine.com
+  image: ""
 - curated_id: a0e24416ebf007f4f654e81ef4bfda01
   item_date: "2017-02-07 00:00:00"
   title: Open-loop vs. Closed-loop Process Control
@@ -764,19 +777,6 @@
   item_date: "2017-02-07 00:00:00"
   title: The Fog is Getting Thicker
   url: http://www.remotemagazine.com/main/articles/the-fog-is-getting-thicker/
-  domain: www.remotemagazine.com
-  image: ""
-- curated_id: ebcda2cc6df554c0eac0b0e7a587092d
-  item_date: "2017-02-07 00:00:00"
-  title: OSIsoft and TrendMiner Sign OEM Agreement to Enhance Asset and Process Data
-    Analytics Integration
-  url: http://www.remotemagazine.com/main/news/osisoft-and-trendminer-sign-oem-agreement-to-enhance-asset-and-process-data-analytics-integration/
-  domain: www.remotemagazine.com
-  image: ""
-- curated_id: 721c6ed269df86727c7db8a80bad1f35
-  item_date: "2017-02-07 00:00:00"
-  title: Three Critical Uses of Data for Off-Grid Telecom Power
-  url: http://www.remotemagazine.com/main/articles/three-critical-uses-of-data-for-off-grid-telecom-power/
   domain: www.remotemagazine.com
   image: ""
 - curated_id: d3958e7128ee848098458b5eccfe70a0
@@ -792,22 +792,22 @@
   url: http://www.rockwellautomation.com/global/news/blog/detail.page
   domain: www.rockwellautomation.com
   image: ""
-- curated_id: 3c89b669e9ff8b6102789393dedbd0f8
-  item_date: "2017-02-14 00:00:00"
-  title: 'Industrial IoT: A Timeline of Revolutionary Technology [Infographic]'
-  url: https://dzone.com/articles/industrial-iot-a-timeline-of-revolutionary-technol
-  domain: dzone.com
-  image: ""
 - curated_id: ba6d63d78d5621455e34ce2ecf104ed7
   item_date: "2017-02-14 00:00:00"
   title: Making Control Systems Connected And Safe
   url: http://www.cxotoday.com/story/making-control-systems-connected-and-safe/
   domain: www.cxotoday.com
   image: ""
-- curated_id: c73a739075e54cf67d5a68c4f4deeba3
+- curated_id: 3c89b669e9ff8b6102789393dedbd0f8
+  item_date: "2017-02-14 00:00:00"
+  title: 'Industrial IoT: A Timeline of Revolutionary Technology [Infographic]'
+  url: https://dzone.com/articles/industrial-iot-a-timeline-of-revolutionary-technol
+  domain: dzone.com
+  image: ""
+- curated_id: bef7ba64e33b86c7517fa398d21fb24d
   item_date: "2017-02-15 00:00:00"
-  title: 'OptoNews Tip: New groov API section for developers'
-  url: http://blog.opto22.com/optoblog/optonews-tip-new-groov-api-section-for-developers
+  title: 'OptoNews: CLI, transparent windows, and more now in PAC Project R9.6'
+  url: http://blog.opto22.com/optoblog/optonews-transparent-windows-and-more-now-in-pac-project-r96
   domain: blog.opto22.com
   image: ""
 - curated_id: ff8be609721a8c5fa172c9be6a29ea30
@@ -817,10 +817,10 @@
   url: http://www.crn.com/news/internet-of-things/video/300083769/schneider-electric-exec-data-analytics-in-iot-could-provide-a-windfall-for-solution-providers.htm
   domain: www.crn.com
   image: ""
-- curated_id: bef7ba64e33b86c7517fa398d21fb24d
+- curated_id: c73a739075e54cf67d5a68c4f4deeba3
   item_date: "2017-02-15 00:00:00"
-  title: 'OptoNews: CLI, transparent windows, and more now in PAC Project R9.6'
-  url: http://blog.opto22.com/optoblog/optonews-transparent-windows-and-more-now-in-pac-project-r96
+  title: 'OptoNews Tip: New groov API section for developers'
+  url: http://blog.opto22.com/optoblog/optonews-tip-new-groov-api-section-for-developers
   domain: blog.opto22.com
   image: ""
 - curated_id: f7215f28e340138b4ae5c3db1afec653
@@ -830,16 +830,16 @@
   url: https://continuum.cisco.com/2017/02/16/study-majority-of-oil-and-gas-orgs-are-highly-vulnerable-few-have-plans-to-fix-it/
   domain: continuum.cisco.com
   image: ""
-- curated_id: 8b736705e147c7d65e6c90e6280f0ce7
-  item_date: "2017-02-22 00:00:00"
-  title: SGIP White Paper Addresses Protecting Smart Grids from Electromagnetic Phenomena
-  url: http://www.remotemagazine.com/main/news/sgip-white-paper-addresses-protecting-smart-grids-from-electromagnetic-phenomena/
-  domain: www.remotemagazine.com
-  image: ""
 - curated_id: 6c70d458d9a5902d1798439dcd8b3ed3
   item_date: "2017-02-22 00:00:00"
   title: In-Situ, Inc. Expands into Flow Monitoring with Acquisition of MACE
   url: http://www.remotemagazine.com/main/news/in-situ-inc-expands-into-flow-monitoring-with-acquisition-of-mace/
+  domain: www.remotemagazine.com
+  image: ""
+- curated_id: 8b736705e147c7d65e6c90e6280f0ce7
+  item_date: "2017-02-22 00:00:00"
+  title: SGIP White Paper Addresses Protecting Smart Grids from Electromagnetic Phenomena
+  url: http://www.remotemagazine.com/main/news/sgip-white-paper-addresses-protecting-smart-grids-from-electromagnetic-phenomena/
   domain: www.remotemagazine.com
   image: ""
 - curated_id: 1b34f667ff834e70177170f422c63b1f
@@ -872,12 +872,6 @@
   url: http://blog.opto22.com/optoblog/adding-cognitive-computing-to-industrial-automation
   domain: blog.opto22.com
   image: ""
-- curated_id: 81705b6e078ada09531a1d50323df0f2
-  item_date: "2017-03-14 00:00:00"
-  title: Fatek Automation PLC Ethernet Module
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-073-01
-  domain: ics-cert.us-cert.gov
-  image: ""
 - curated_id: 4968a918e14cc8526fa2bef774fc32d3
   item_date: "2017-03-14 00:00:00"
   title: New Breakthrough Wind River Software Platform for Control Systems Transforms
@@ -885,28 +879,10 @@
   url: https://newsroom.intel.com/news/new-breakthrough-wind-river-software-platform-control-systems-transforms-future-industrial-iot/
   domain: newsroom.intel.com
   image: ""
-- curated_id: 49a0105ae7aa99f645ac78090156dc4c
-  item_date: "2017-03-21 00:00:00"
-  title: '3,000 Industrial Plants Per Year Infected with Malware '
-  url: http://www.darkreading.com/threat-intelligence/3000-industrial-plants-per-year-infected-with-malware-/d/d-id/1328444
-  domain: www.darkreading.com
-  image: ""
-- curated_id: ee0ff731da69b4fe94b13566b20e73cc
-  item_date: "2017-03-21 00:00:00"
-  title: Rockwell Automation Connected Components Workbench
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-047-01
-  domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: 6af833ab7fb40653b487b3561041fb3b
-  item_date: "2017-03-21 00:00:00"
-  title: The Internet of Industrial Things at Connected World
-  url: https://dzone.com/articles/the-internet-of-industrial-things
-  domain: dzone.com
-  image: ""
-- curated_id: 780ac1ba8fa74e653a2c89eddf0f0eaf
-  item_date: "2017-03-21 00:00:00"
-  title: Rockwell Automation FactoryTalk Activation
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-047-02
+- curated_id: 81705b6e078ada09531a1d50323df0f2
+  item_date: "2017-03-14 00:00:00"
+  title: Fatek Automation PLC Ethernet Module
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-073-01
   domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: da8fb0b20efdfc6e575fa82aea2df9e6
@@ -915,17 +891,41 @@
   url: http://blog.opto22.com/optoblog/social-engineering-your-automation-networks-largest-security-vulnerability
   domain: blog.opto22.com
   image: ""
-- curated_id: 3d82addcf06d6d59c4c3d8089a9f7365
-  item_date: "2017-03-22 00:00:00"
-  title: Industrial Internet of Things (IIoT) Database in Rail Systems
-  url: http://spectrum.ieee.org/whitepaper/industrial-internet-of-things-iiot-database-in-rail-systems
-  domain: spectrum.ieee.org
+- curated_id: 49a0105ae7aa99f645ac78090156dc4c
+  item_date: "2017-03-21 00:00:00"
+  title: '3,000 Industrial Plants Per Year Infected with Malware '
+  url: http://www.darkreading.com/threat-intelligence/3000-industrial-plants-per-year-infected-with-malware-/d/d-id/1328444
+  domain: www.darkreading.com
+  image: ""
+- curated_id: 780ac1ba8fa74e653a2c89eddf0f0eaf
+  item_date: "2017-03-21 00:00:00"
+  title: Rockwell Automation FactoryTalk Activation
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-047-02
+  domain: ics-cert.us-cert.gov
+  image: ""
+- curated_id: 6af833ab7fb40653b487b3561041fb3b
+  item_date: "2017-03-21 00:00:00"
+  title: The Internet of Industrial Things at Connected World
+  url: https://dzone.com/articles/the-internet-of-industrial-things
+  domain: dzone.com
+  image: ""
+- curated_id: ee0ff731da69b4fe94b13566b20e73cc
+  item_date: "2017-03-21 00:00:00"
+  title: Rockwell Automation Connected Components Workbench
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-047-01
+  domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: ac29d6e7e5386728da6e9795d3483b70
   item_date: "2017-03-22 00:00:00"
   title: 3,000 Industrial Plants Per Year Infected with Malware
   url: http://www.itsecurityguru.org/2017/03/22/3000-industrial-plants-per-year-infected-malware/
   domain: www.itsecurityguru.org
+  image: ""
+- curated_id: 3d82addcf06d6d59c4c3d8089a9f7365
+  item_date: "2017-03-22 00:00:00"
+  title: Industrial Internet of Things (IIoT) Database in Rail Systems
+  url: http://spectrum.ieee.org/whitepaper/industrial-internet-of-things-iiot-database-in-rail-systems
+  domain: spectrum.ieee.org
   image: ""
 - curated_id: 51d5950414283a6ef686f0f70ef01d4b
   item_date: "2017-03-23 00:00:00"
@@ -940,24 +940,6 @@
   url: http://blog.opto22.com/optoblog/are-you-protecting-your-scada-system-from-ransomware
   domain: blog.opto22.com
   image: ""
-- curated_id: a356cedcf70937c4fa24647bcaaf6526
-  item_date: "2017-04-04 00:00:00"
-  title: Opportunities and Barriers in Industrial IoT
-  url: https://www.ariasystems.com/blog/opportunities-barriers-industrial-iot/
-  domain: www.ariasystems.com
-  image: ""
-- curated_id: 992e3275d5cf4103f6e437fab4cec3df
-  item_date: "2017-04-04 00:00:00"
-  title: Honeywell Launches Industrial Cyber Security Solution
-  url: http://www.remotemagazine.com/main/markets/security-channels/honeywell-launches-industrial-cyber-security-solution/
-  domain: www.remotemagazine.com
-  image: ""
-- curated_id: fad1c5e1a7cde79ff37cbb498e788b7f
-  item_date: "2017-04-04 00:00:00"
-  title: Pluto AI raises $2.1 million to bring intelligence to water treatment
-  url: https://techcrunch.com/2017/04/04/pluto-ai-raises-2-1-million-to-bring-intelligence-to-water-treatment/
-  domain: techcrunch.com
-  image: ""
 - curated_id: 6340bda87c9fd7abdc6e8982b92314a8
   item_date: "2017-04-04 00:00:00"
   title: Osterhout Design Group intros new wearable goggles for hazmat workers
@@ -971,6 +953,24 @@
   url: http://blog.opto22.com/optoblog/top-software-technologies-for-systems-integrators-and-the-industrial-iot
   domain: blog.opto22.com
   image: ""
+- curated_id: fad1c5e1a7cde79ff37cbb498e788b7f
+  item_date: "2017-04-04 00:00:00"
+  title: Pluto AI raises $2.1 million to bring intelligence to water treatment
+  url: https://techcrunch.com/2017/04/04/pluto-ai-raises-2-1-million-to-bring-intelligence-to-water-treatment/
+  domain: techcrunch.com
+  image: ""
+- curated_id: a356cedcf70937c4fa24647bcaaf6526
+  item_date: "2017-04-04 00:00:00"
+  title: Opportunities and Barriers in Industrial IoT
+  url: https://www.ariasystems.com/blog/opportunities-barriers-industrial-iot/
+  domain: www.ariasystems.com
+  image: ""
+- curated_id: 992e3275d5cf4103f6e437fab4cec3df
+  item_date: "2017-04-04 00:00:00"
+  title: Honeywell Launches Industrial Cyber Security Solution
+  url: http://www.remotemagazine.com/main/markets/security-channels/honeywell-launches-industrial-cyber-security-solution/
+  domain: www.remotemagazine.com
+  image: ""
 - curated_id: 0a50ab0889542e755d3643b5c8fab795
   item_date: "2017-04-06 00:00:00"
   title: Server-side JavaScript for the IIoT
@@ -981,18 +981,6 @@
   item_date: "2017-04-11 00:00:00"
   title: Encryption In Automation
   url: http://blog.opto22.com/optoblog/encryption-in-automation
-  domain: blog.opto22.com
-  image: ""
-- curated_id: b15ef5c8ca7387a615f445a973754ec3
-  item_date: "2017-04-12 00:00:00"
-  title: 'OptoNews: SCADA system for smaller water/wastewater districts'
-  url: http://blog.opto22.com/optoblog/optonews-scada-system-for-smaller-water/wastewater-districts
-  domain: blog.opto22.com
-  image: ""
-- curated_id: 1db0d2367e1bce49e089224f201a0caa
-  item_date: "2017-04-12 00:00:00"
-  title: 'OptoNews: New pipes and fittings in the SVG library'
-  url: http://blog.opto22.com/optoblog/optonews-new-pipes-and-fittings-in-the-svg-library
   domain: blog.opto22.com
   image: ""
 - curated_id: d7bc4544118d12cadc9cfdd5398d03f6
@@ -1007,18 +995,30 @@
   url: http://blog.opto22.com/optoblog/optonews-connect-serial-devices-to-your-groov-box-with-admin-46
   domain: blog.opto22.com
   image: ""
-- curated_id: e22fb0fa857bf3d7fca396edf9758688
-  item_date: "2017-04-13 00:00:00"
-  title: 'QA: Monnit CEO On Why The Sensor Manufacturer Is Banking On Industrial IoT
-    -- And Why Partners Should Too'
-  url: http://www.crn.com/slide-shows/internet-of-things/300084554/qa-monnit-ceo-on-why-the-sensor-manufacturer-is-banking-on-industrial-iot-and-why-partners-should-too.htm
-  domain: www.crn.com
+- curated_id: 1db0d2367e1bce49e089224f201a0caa
+  item_date: "2017-04-12 00:00:00"
+  title: 'OptoNews: New pipes and fittings in the SVG library'
+  url: http://blog.opto22.com/optoblog/optonews-new-pipes-and-fittings-in-the-svg-library
+  domain: blog.opto22.com
+  image: ""
+- curated_id: b15ef5c8ca7387a615f445a973754ec3
+  item_date: "2017-04-12 00:00:00"
+  title: 'OptoNews: SCADA system for smaller water/wastewater districts'
+  url: http://blog.opto22.com/optoblog/optonews-scada-system-for-smaller-water/wastewater-districts
+  domain: blog.opto22.com
   image: ""
 - curated_id: 6bb99dd6903da8617a0f0324415322cd
   item_date: "2017-04-13 00:00:00"
   title: 'Node.js: The Engine of IIoT'
   url: http://blog.opto22.com/optoblog/node.js-the-engine-of-iiot
   domain: blog.opto22.com
+  image: ""
+- curated_id: e22fb0fa857bf3d7fca396edf9758688
+  item_date: "2017-04-13 00:00:00"
+  title: 'QA: Monnit CEO On Why The Sensor Manufacturer Is Banking On Industrial IoT
+    -- And Why Partners Should Too'
+  url: http://www.crn.com/slide-shows/internet-of-things/300084554/qa-monnit-ceo-on-why-the-sensor-manufacturer-is-banking-on-industrial-iot-and-why-partners-should-too.htm
+  domain: www.crn.com
   image: ""
 - curated_id: 709b040734ca0313ad454223f16e190f
   item_date: "2017-04-14 00:00:00"
@@ -1038,18 +1038,18 @@
   url: https://dzone.com/articles/decoding-the-industrial-internet
   domain: dzone.com
   image: ""
+- curated_id: fd77d425cf7d800b39445812310da65e
+  item_date: "2017-04-21 00:00:00"
+  title: AW-Lake Company Introduces MicroTRICOR TCM-100 Coriolis Mass Flow Meter
+  url: http://www.remotemagazine.com/main/markets/data-acquisition/aw-lake-company-introduces-microtricor-tcm-100-coriolis-mass-flow-meter/
+  domain: www.remotemagazine.com
+  image: ""
 - curated_id: a280b1adb0016e88efa92f709f95f779
   item_date: "2017-04-21 00:00:00"
   title: 'OptoNews: New webinar from Dell and Opto 22 - Improved OEE through predictive
     maintenance'
   url: http://blog.opto22.com/optoblog/optonews-new-webinar-from-dell-and-opto-22-improved-oee-through-predictive-maintenance
   domain: blog.opto22.com
-  image: ""
-- curated_id: fd77d425cf7d800b39445812310da65e
-  item_date: "2017-04-21 00:00:00"
-  title: AW-Lake Company Introduces MicroTRICOR TCM-100 Coriolis Mass Flow Meter
-  url: http://www.remotemagazine.com/main/markets/data-acquisition/aw-lake-company-introduces-microtricor-tcm-100-coriolis-mass-flow-meter/
-  domain: www.remotemagazine.com
   image: ""
 - curated_id: 674d019be59a73ee332c2da4b69e4050
   item_date: "2017-04-24 00:00:00"
@@ -1064,17 +1064,17 @@
   url: https://newsroom.cisco.com/press-release-content
   domain: newsroom.cisco.com
   image: ""
-- curated_id: cc01b57485644db8cef3550ceeb66c28
-  item_date: "2017-04-26 00:00:00"
-  title: Cyber risks for Industrial environments continue to increase
-  url: http://resources.infosecinstitute.com/cyber-risks-industrial-environments-continue-increase/
-  domain: resources.infosecinstitute.com
-  image: ""
 - curated_id: d5044254d1c103a703dbc6714789c1f4
   item_date: "2017-04-26 00:00:00"
   title: How IIoT and SCADA Systems are Melding Together
   url: http://www.remotemagazine.com/main/articles/how-iiot-and-scada-systems-are-melding-together/
   domain: www.remotemagazine.com
+  image: ""
+- curated_id: cc01b57485644db8cef3550ceeb66c28
+  item_date: "2017-04-26 00:00:00"
+  title: Cyber risks for Industrial environments continue to increase
+  url: http://resources.infosecinstitute.com/cyber-risks-industrial-environments-continue-increase/
+  domain: resources.infosecinstitute.com
   image: ""
 - curated_id: 81deaaf3f8f0739d08434251bf4f76a9
   item_date: "2017-04-27 00:00:00"
@@ -1095,13 +1095,6 @@
   url: http://www.crn.com/news/internet-of-things/300084802/industrial-iot-superstars-ge-siemens-are-butting-heads-in-manufacturing-market.htm
   domain: www.crn.com
   image: ""
-- curated_id: 94322e712d25c7d4fb16ba4bdd6a0468
-  item_date: "2017-05-08 00:00:00"
-  title: Study Finds Heavy Use of IP/MPLS and Continued Reliance on Utility-Operated
-    Telecommunications Networks for EMS/SCADA and DMS Systems
-  url: http://www.remotemagazine.com/main/news/study-finds-heavy-use-of-ipmpls-and-continued-reliance-on-utility-operated-telecommunications-networks-for-emsscada-and-dms-systems/
-  domain: www.remotemagazine.com
-  image: ""
 - curated_id: 35f39fa155205cd9faa92e30baea1d52
   item_date: "2017-05-08 00:00:00"
   title: Big Water Data Collected by the US Geological Survey Is Now Managed in Aquarius
@@ -1109,11 +1102,12 @@
   url: http://www.remotemagazine.com/main/news/big-water-data-collected-by-the-us-geological-survey-is-now-managed-in-aquarius-time-series-across-25-states/
   domain: www.remotemagazine.com
   image: ""
-- curated_id: d425d0ead8b346f13155e44a6ef2b5e6
-  item_date: "2017-05-09 00:00:00"
-  title: Siemens devices using the PROFINET Discovery and Configuration Protocol
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-129-02
-  domain: ics-cert.us-cert.gov
+- curated_id: 94322e712d25c7d4fb16ba4bdd6a0468
+  item_date: "2017-05-08 00:00:00"
+  title: Study Finds Heavy Use of IP/MPLS and Continued Reliance on Utility-Operated
+    Telecommunications Networks for EMS/SCADA and DMS Systems
+  url: http://www.remotemagazine.com/main/news/study-finds-heavy-use-of-ipmpls-and-continued-reliance-on-utility-operated-telecommunications-networks-for-emsscada-and-dms-systems/
+  domain: www.remotemagazine.com
   image: ""
 - curated_id: e06968cf8de5ed3f58089f3d1b9d477a
   item_date: "2017-05-09 00:00:00"
@@ -1121,11 +1115,11 @@
   url: https://ics-cert.us-cert.gov/advisories/ICSA-17-094-04
   domain: ics-cert.us-cert.gov
   image: ""
-- curated_id: 3a466bcdb6d58c0969874d14f9d11fdb
-  item_date: "2017-05-11 00:00:00"
-  title: Predictive Analytics from Process Control Data
-  url: http://blog.opto22.com/optoblog/predictive-analytics-from-process-control-data
-  domain: blog.opto22.com
+- curated_id: d425d0ead8b346f13155e44a6ef2b5e6
+  item_date: "2017-05-09 00:00:00"
+  title: Siemens devices using the PROFINET Discovery and Configuration Protocol
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-129-02
+  domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: 2b201f82b0075faaba3f96d20ce4a498
   item_date: "2017-05-11 00:00:00"
@@ -1134,6 +1128,18 @@
   url: http://www.remotemagazine.com/main/news/sel-and-lightriver-technologies-team-up-to-provide-dependable-communication-solutions/
   domain: www.remotemagazine.com
   image: ""
+- curated_id: 3a466bcdb6d58c0969874d14f9d11fdb
+  item_date: "2017-05-11 00:00:00"
+  title: Predictive Analytics from Process Control Data
+  url: http://blog.opto22.com/optoblog/predictive-analytics-from-process-control-data
+  domain: blog.opto22.com
+  image: ""
+- curated_id: 761ab03ce356f6e1fff4ff6f5ef6a4bc
+  item_date: "2017-05-12 00:00:00"
+  title: The new reality of interconnected systems
+  url: http://www.themanufacturer.com/articles/new-reality-interconnected-systems/
+  domain: www.themanufacturer.com
+  image: ""
 - curated_id: ebf842ead8dabd64731c6210d1302f21
   item_date: "2017-05-12 00:00:00"
   title: 'Partners: Microsofts New Azure IoT Edge Service Pushes It Head To Head With
@@ -1141,11 +1147,11 @@
   url: http://www.crn.com/news/internet-of-things/300085056/partners-microsofts-new-azure-iot-edge-service-pushes-it-head-to-head-with-ge-in-the-industrial-market.htm
   domain: www.crn.com
   image: ""
-- curated_id: 761ab03ce356f6e1fff4ff6f5ef6a4bc
-  item_date: "2017-05-12 00:00:00"
-  title: The new reality of interconnected systems
-  url: http://www.themanufacturer.com/articles/new-reality-interconnected-systems/
-  domain: www.themanufacturer.com
+- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_15c40df77f8:32328b1:1980c846
+  item_date: "2017-05-25 07:11:00"
+  title: PTC doubles down on the IIoT
+  url: http://www.businessinsider.com/ptc-doubles-down-on-the-iiot-2017-5?utm_source=feedly&amp;utm_medium=referral
+  domain: www.businessinsider.com
   image: ""
 - curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_15c40df77f8:32328b1:1980c846
   item_date: "2017-05-25 07:11:00"
@@ -1157,12 +1163,6 @@
   item_date: "2017-05-25 07:11:00"
   title: PTC doubles down on the IIoT
   url: http://www.businessinsider.com/ptc-doubles-down-on-the-iiot-2017-5?utm_source=feedly&utm_medium=referral
-  domain: www.businessinsider.com
-  image: ""
-- curated_id: UGoT913Pj2iVsp570XrRhskqe5/o7yyV3N/NTloByRs=_15c40df77f8:32328b1:1980c846
-  item_date: "2017-05-25 07:11:00"
-  title: PTC doubles down on the IIoT
-  url: http://www.businessinsider.com/ptc-doubles-down-on-the-iiot-2017-5?utm_source=feedly&amp;utm_medium=referral
   domain: www.businessinsider.com
   image: ""
 - curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15c5b08310a:4bb299e:bb404dd5
