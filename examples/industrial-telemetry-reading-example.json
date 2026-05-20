@@ -1,0 +1,12 @@
+{
+  "reading_id": "reading-2026-05-19T10:00:00Z-pump-101-vibration",
+  "asset_id": "asset-pump-101",
+  "metric": "vibration_rms_mm_s",
+  "value": 4.8,
+  "unit": "mm/s",
+  "quality": "good",
+  "timestamp": "2026-05-19T10:00:00Z",
+  "source_protocol": "MQTT-Sparkplug-B",
+  "gateway_id": "gateway-houston-3a",
+  "namespace": "enterprise/houston/plant3/lineA/pump101"
+}

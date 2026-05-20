@@ -1,0 +1,388 @@
+vocabulary: "1.0.0"
+
+info:
+  provider: Industrial
+  description: Vocabulary for the industrial APIs topic, covering industrial IoT, operational technology, SCADA, manufacturing execution, asset management, predictive maintenance, energy management, and building automation.
+  created: '2026-05-19'
+  modified: '2026-05-19'
+
+operational:
+  apis:
+    - name: AWS IoT SiteWise
+      namespace: amazon-iot-sitewise
+      status: active
+    - name: AWS IoT TwinMaker
+      namespace: amazon-iot-twinmaker
+      status: active
+    - name: AWS IoT Greengrass
+      namespace: amazon-iot-greengrass
+      status: active
+    - name: Siemens MindSphere
+      namespace: siemens-mindsphere
+      status: active
+    - name: PTC ThingWorx
+      namespace: ptc-thingworx
+      status: active
+    - name: OSIsoft PI System
+      namespace: osisoft-pi
+      status: active
+    - name: Litmus Automation
+      namespace: litmus
+      status: active
+    - name: HiveMQ
+      namespace: hivemq
+      status: active
+    - name: Rockwell FactoryTalk
+      namespace: rockwell-factorytalk
+      status: active
+    - name: Schneider Electric Exchange
+      namespace: schneider-electric-exchange
+      status: active
+
+  resources:
+    - name: assets
+      description: Hierarchical industrial assets such as plants, lines, machines, and components
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - delete
+    - name: telemetry-readings
+      description: Time-series readings from sensors, PLC tags, OPC UA nodes, and MQTT Sparkplug B metrics
+      actions:
+        - ingest
+        - list
+        - query
+        - stream
+    - name: maintenance-orders
+      description: Work orders, inspection tasks, and CMMS records for industrial assets
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - close
+    - name: production-runs
+      description: Manufacturing production runs, batches, and shift records with OEE and quality context
+      actions:
+        - list
+        - get
+        - create
+        - update
+        - close
+    - name: alarms
+      description: Process and equipment alarms emitted by SCADA, historians, and condition monitoring systems
+      actions:
+        - list
+        - get
+        - acknowledge
+        - clear
+
+  actions:
+    - name: list
+      description: Enumerate resources
+      httpMethod: GET
+      pattern: read
+    - name: get
+      description: Retrieve a single resource
+      httpMethod: GET
+      pattern: read
+    - name: query
+      description: Query time-series telemetry by asset, metric, and time window
+      httpMethod: GET
+      pattern: query
+    - name: stream
+      description: Subscribe to a live stream of telemetry, alarms, or events
+      httpMethod: GET
+      pattern: stream
+    - name: ingest
+      description: Push telemetry data into a historian or time-series store
+      httpMethod: POST
+      pattern: write
+    - name: create
+      description: Create a new asset, work order, or production run
+      httpMethod: POST
+      pattern: write
+    - name: update
+      description: Update an existing resource
+      httpMethod: PUT
+      pattern: write
+    - name: close
+      description: Close a work order or production run
+      httpMethod: POST
+      pattern: write
+    - name: acknowledge
+      description: Acknowledge an alarm
+      httpMethod: POST
+      pattern: write
+    - name: clear
+      description: Clear an alarm condition
+      httpMethod: POST
+      pattern: write
+    - name: delete
+      description: Remove a resource
+      httpMethod: DELETE
+      pattern: destructive
+
+  schemas:
+    core:
+      - name: IndustrialAsset
+        description: A physical industrial asset within a hierarchical model
+        properties:
+          - asset_id
+          - name
+          - asset_type
+          - parent_asset_id
+          - site
+          - manufacturer
+          - model
+          - serial_number
+          - criticality
+          - status
+          - tags
+          - protocols
+      - name: IndustrialTelemetryReading
+        description: A single time-series telemetry reading from an industrial asset
+        properties:
+          - reading_id
+          - asset_id
+          - metric
+          - value
+          - unit
+          - quality
+          - timestamp
+          - source_protocol
+          - gateway_id
+          - namespace
+      - name: MaintenanceOrder
+        description: A maintenance work order against an industrial asset
+        properties:
+          - work_order_id
+          - asset_id
+          - description
+          - priority
+          - status
+          - opened_at
+          - closed_at
+      - name: ProductionRun
+        description: A manufacturing production run on a line or cell
+        properties:
+          - run_id
+          - asset_id
+          - product_code
+          - planned_quantity
+          - actual_quantity
+          - started_at
+          - ended_at
+          - status
+
+  enums:
+    asset_types:
+      - Plant
+      - Area
+      - Line
+      - Cell
+      - Machine
+      - Pump
+      - Motor
+      - Compressor
+      - Valve
+      - Sensor
+      - Gateway
+      - PLC
+      - HVAC
+      - Meter
+    protocols:
+      - OPC-UA
+      - MQTT
+      - MQTT-Sparkplug-B
+      - Modbus
+      - EtherNet-IP
+      - PROFINET
+      - BACnet
+      - DNP3
+      - HART
+      - REST
+    quality_flags:
+      - good
+      - uncertain
+      - bad
+    asset_status:
+      - running
+      - idle
+      - stopped
+      - maintenance
+      - fault
+      - decommissioned
+    work_order_priority:
+      - low
+      - medium
+      - high
+      - emergency
+
+capability:
+  workflows:
+    - name: Predictive Maintenance for Rotating Equipment
+      description: Ingest vibration and current telemetry, detect anomalies with ML, and generate maintenance work orders in a CMMS
+      apis:
+        - amazon-iot-sitewise
+        - amazon-lookout-for-equipment
+        - amazon-monitron
+      personas:
+        - Reliability Engineer
+        - Maintenance Planner
+      domains:
+        - Asset Performance Management
+        - Predictive Maintenance
+    - name: OPC UA to Cloud Telemetry Pipeline
+      description: Map OPC UA tags to MQTT Sparkplug B at the edge and stream normalized telemetry into a cloud historian
+      apis:
+        - litmus
+        - amazon-iot-greengrass
+        - hivemq
+        - amazon-iot-sitewise
+      personas:
+        - OT Engineer
+        - Solution Architect
+      domains:
+        - Industrial IoT
+        - Edge
+    - name: Manufacturing Execution and OEE Reporting
+      description: Capture production runs, downtime, and quality events from the shop floor and expose OEE through MES APIs
+      apis:
+        - ptc-thingworx
+        - rockwell-factorytalk
+        - siemens-mindsphere
+      personas:
+        - Manufacturing Engineer
+        - Plant Manager
+      domains:
+        - Manufacturing Execution
+        - Smart Factory
+    - name: Digital Twin Operations
+      description: Combine 3D scenes, asset hierarchies, and live telemetry into a digital twin used for remote operations and root-cause analysis
+      apis:
+        - amazon-iot-twinmaker
+        - siemens-mindsphere
+        - ptc-thingworx
+      personas:
+        - Solution Architect
+        - Reliability Engineer
+      domains:
+        - Industrial IoT
+        - Digital Twin
+    - name: Energy Management and Sustainability Reporting
+      description: Aggregate sub-meter, HVAC, and process-energy data into normalized feeds for carbon and sustainability reporting
+      apis:
+        - schneider-electric-exchange
+        - honeywell
+        - emerson-electric
+      personas:
+        - Energy Manager
+        - Sustainability Analyst
+      domains:
+        - Energy Management
+        - Building Automation
+
+  personas:
+    - id: ot-engineer
+      name: OT Engineer
+      description: Engineers responsible for PLCs, SCADA, and industrial network protocols on the plant floor
+      workflows:
+        - OPC UA to Cloud Telemetry Pipeline
+    - id: reliability-engineer
+      name: Reliability Engineer
+      description: Engineers focused on asset reliability, condition monitoring, and predictive maintenance
+      workflows:
+        - Predictive Maintenance for Rotating Equipment
+        - Digital Twin Operations
+    - id: maintenance-planner
+      name: Maintenance Planner
+      description: Planners coordinating work orders, spares, and labor in a CMMS or EAM system
+      workflows:
+        - Predictive Maintenance for Rotating Equipment
+    - id: manufacturing-engineer
+      name: Manufacturing Engineer
+      description: Engineers optimizing production lines, OEE, and quality on discrete or process manufacturing operations
+      workflows:
+        - Manufacturing Execution and OEE Reporting
+    - id: plant-manager
+      name: Plant Manager
+      description: Operational owners of a plant or facility responsible for production, safety, and uptime
+      workflows:
+        - Manufacturing Execution and OEE Reporting
+    - id: energy-manager
+      name: Energy Manager
+      description: Specialists managing industrial and facility energy consumption and reporting
+      workflows:
+        - Energy Management and Sustainability Reporting
+    - id: solution-architect
+      name: Solution Architect
+      description: Architects designing IIoT, edge, and digital-twin solutions across OT and IT
+      workflows:
+        - OPC UA to Cloud Telemetry Pipeline
+        - Digital Twin Operations
+
+  domains:
+    - name: Industrial IoT
+      description: Cloud and edge platforms that connect industrial equipment and expose data through APIs
+    - name: Edge
+      description: Compute and connectivity that runs on industrial gateways close to PLCs and sensors
+    - name: Asset Performance Management
+      description: Practices and tools for managing reliability, maintenance, and performance of physical assets
+    - name: Predictive Maintenance
+      description: ML and analytics applied to equipment data to predict failures before they occur
+    - name: Manufacturing Execution
+      description: Systems and APIs coordinating production execution, OEE, and quality on the shop floor
+    - name: Smart Factory
+      description: End-to-end digitization of factory operations across IT and OT
+    - name: Digital Twin
+      description: Virtual representations of physical assets combining models, telemetry, and 3D context
+    - name: Energy Management
+      description: Monitoring, control, and reporting of industrial and facility energy use
+    - name: Building Automation
+      description: Control and monitoring of HVAC, lighting, and building services through APIs
+
+crossReference:
+  - resource: assets
+    operations:
+      - list
+      - get
+      - create
+    workflows:
+      - Predictive Maintenance for Rotating Equipment
+      - Digital Twin Operations
+    personas:
+      - Reliability Engineer
+      - Solution Architect
+  - resource: telemetry-readings
+    operations:
+      - ingest
+      - query
+      - stream
+    workflows:
+      - OPC UA to Cloud Telemetry Pipeline
+      - Predictive Maintenance for Rotating Equipment
+    personas:
+      - OT Engineer
+      - Reliability Engineer
+  - resource: maintenance-orders
+    operations:
+      - create
+      - update
+      - close
+    workflows:
+      - Predictive Maintenance for Rotating Equipment
+    personas:
+      - Maintenance Planner
+  - resource: production-runs
+    operations:
+      - list
+      - create
+      - close
+    workflows:
+      - Manufacturing Execution and OEE Reporting
+    personas:
+      - Manufacturing Engineer
+      - Plant Manager

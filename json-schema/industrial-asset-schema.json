@@ -1,0 +1,105 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/industrial/refs/heads/main/json-schema/industrial-asset-schema.json",
+  "title": "IndustrialAsset",
+  "description": "Represents a physical industrial asset such as a plant, line, machine, or component within a hierarchical asset model used by IIoT, SCADA, MES, and asset performance management systems.",
+  "type": "object",
+  "properties": {
+    "asset_id": {
+      "type": "string",
+      "description": "Stable unique identifier for the asset, typically assigned by the asset registry.",
+      "example": "asset-pump-101"
+    },
+    "name": {
+      "type": "string",
+      "description": "Human-readable name of the asset.",
+      "example": "Centrifugal Pump 101"
+    },
+    "description": {
+      "type": "string",
+      "description": "Description of the asset and its operational role.",
+      "example": "Primary cooling-water centrifugal pump on Line A of Plant 3."
+    },
+    "asset_type": {
+      "type": "string",
+      "description": "Class of physical asset.",
+      "enum": [
+        "Plant",
+        "Area",
+        "Line",
+        "Cell",
+        "Machine",
+        "Pump",
+        "Motor",
+        "Compressor",
+        "Valve",
+        "Sensor",
+        "Gateway",
+        "PLC",
+        "HVAC",
+        "Meter",
+        "Other"
+      ],
+      "example": "Pump"
+    },
+    "parent_asset_id": {
+      "type": "string",
+      "description": "Identifier of the parent asset in the asset hierarchy.",
+      "example": "asset-line-a"
+    },
+    "site": {
+      "type": "string",
+      "description": "Physical site or plant where the asset is located.",
+      "example": "Plant 3 - Houston"
+    },
+    "manufacturer": {
+      "type": "string",
+      "description": "Original equipment manufacturer of the asset.",
+      "example": "Sulzer"
+    },
+    "model": {
+      "type": "string",
+      "description": "Manufacturer model number.",
+      "example": "ZE 200-400"
+    },
+    "serial_number": {
+      "type": "string",
+      "description": "Manufacturer serial number.",
+      "example": "SN-2026-0042"
+    },
+    "installed_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp the asset was installed and commissioned.",
+      "example": "2024-08-12T00:00:00Z"
+    },
+    "criticality": {
+      "type": "string",
+      "description": "Operational criticality of the asset for reliability and maintenance prioritization.",
+      "enum": ["low", "medium", "high", "critical"],
+      "example": "high"
+    },
+    "status": {
+      "type": "string",
+      "description": "Current operational status of the asset.",
+      "enum": ["running", "idle", "stopped", "maintenance", "fault", "decommissioned"],
+      "example": "running"
+    },
+    "tags": {
+      "type": "array",
+      "description": "Free-form tags or labels classifying the asset.",
+      "items": { "type": "string" },
+      "example": ["rotating-equipment", "iso14224-pump", "vibration-monitored"]
+    },
+    "protocols": {
+      "type": "array",
+      "description": "Industrial protocols by which this asset communicates.",
+      "items": {
+        "type": "string",
+        "enum": ["OPC-UA", "MQTT", "MQTT-Sparkplug-B", "Modbus", "EtherNet-IP", "PROFINET", "BACnet", "DNP3", "HART", "REST"]
+      },
+      "example": ["OPC-UA", "MQTT-Sparkplug-B"]
+    }
+  },
+  "required": ["asset_id", "name", "asset_type"]
+}

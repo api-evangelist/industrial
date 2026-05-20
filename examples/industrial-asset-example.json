@@ -1,0 +1,16 @@
+{
+  "asset_id": "asset-pump-101",
+  "name": "Centrifugal Pump 101",
+  "description": "Primary cooling-water centrifugal pump on Line A of Plant 3.",
+  "asset_type": "Pump",
+  "parent_asset_id": "asset-line-a",
+  "site": "Plant 3 - Houston",
+  "manufacturer": "Sulzer",
+  "model": "ZE 200-400",
+  "serial_number": "SN-2026-0042",
+  "installed_at": "2024-08-12T00:00:00Z",
+  "criticality": "high",
+  "status": "running",
+  "tags": ["rotating-equipment", "iso14224-pump", "vibration-monitored"],
+  "protocols": ["OPC-UA", "MQTT-Sparkplug-B"]
+}

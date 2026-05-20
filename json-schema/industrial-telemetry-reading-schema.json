@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/industrial/refs/heads/main/json-schema/industrial-telemetry-reading-schema.json",
+  "title": "IndustrialTelemetryReading",
+  "description": "Represents a single time-series telemetry reading captured from an industrial asset, sensor, PLC tag, OPC UA node, or MQTT Sparkplug B metric.",
+  "type": "object",
+  "properties": {
+    "reading_id": {
+      "type": "string",
+      "description": "Unique identifier for this telemetry reading.",
+      "example": "reading-2026-05-19T10:00:00Z-pump-101-vibration"
+    },
+    "asset_id": {
+      "type": "string",
+      "description": "Identifier of the asset the reading was captured from.",
+      "example": "asset-pump-101"
+    },
+    "metric": {
+      "type": "string",
+      "description": "Name of the metric or PLC tag.",
+      "example": "vibration_rms_mm_s"
+    },
+    "value": {
+      "type": "number",
+      "description": "Numeric value of the reading.",
+      "example": 4.8
+    },
+    "unit": {
+      "type": "string",
+      "description": "Engineering unit of the measurement.",
+      "example": "mm/s"
+    },
+    "quality": {
+      "type": "string",
+      "description": "OPC-UA-style quality flag for the reading.",
+      "enum": ["good", "uncertain", "bad"],
+      "example": "good"
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp at which the value was sampled at the source.",
+      "example": "2026-05-19T10:00:00Z"
+    },
+    "source_protocol": {
+      "type": "string",
+      "description": "Industrial protocol the reading was acquired through.",
+      "enum": ["OPC-UA", "MQTT", "MQTT-Sparkplug-B", "Modbus", "EtherNet-IP", "PROFINET", "BACnet", "DNP3", "HART", "REST"],
+      "example": "MQTT-Sparkplug-B"
+    },
+    "gateway_id": {
+      "type": "string",
+      "description": "Identifier of the edge gateway that ingested the reading.",
+      "example": "gateway-houston-3a"
+    },
+    "namespace": {
+      "type": "string",
+      "description": "Logical namespace for the metric, often the unified-namespace path.",
+      "example": "enterprise/houston/plant3/lineA/pump101"
+    }
+  },
+  "required": ["asset_id", "metric", "value", "timestamp"]
+}

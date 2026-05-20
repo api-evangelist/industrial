@@ -1,0 +1,109 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "ind": "https://api-evangelist.github.io/industrial/schema/",
+    "schema": "https://schema.org/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "sosa": "http://www.w3.org/ns/sosa/",
+    "ssn": "http://www.w3.org/ns/ssn/",
+    "qudt": "http://qudt.org/schema/qudt/",
+
+    "IndustrialAsset": "ind:IndustrialAsset",
+    "IndustrialTelemetryReading": "sosa:Observation",
+    "MaintenanceOrder": "ind:MaintenanceOrder",
+    "ProductionRun": "ind:ProductionRun",
+
+    "asset_id": "schema:identifier",
+    "reading_id": "schema:identifier",
+    "name": "schema:name",
+    "description": "schema:description",
+
+    "asset_type": {
+      "@id": "ind:assetType",
+      "@type": "xsd:string"
+    },
+    "parent_asset_id": {
+      "@id": "ind:parentAssetId",
+      "@type": "xsd:string"
+    },
+    "site": {
+      "@id": "ind:site",
+      "@type": "xsd:string"
+    },
+    "manufacturer": "schema:manufacturer",
+    "model": "schema:model",
+    "serial_number": "schema:serialNumber",
+    "installed_at": {
+      "@id": "ind:installedAt",
+      "@type": "xsd:dateTime"
+    },
+    "criticality": {
+      "@id": "ind:criticality",
+      "@type": "xsd:string"
+    },
+    "status": {
+      "@id": "ind:status",
+      "@type": "xsd:string"
+    },
+    "tags": {
+      "@id": "schema:keywords",
+      "@container": "@set",
+      "@type": "xsd:string"
+    },
+    "protocols": {
+      "@id": "ind:protocols",
+      "@container": "@set",
+      "@type": "xsd:string"
+    },
+
+    "metric": {
+      "@id": "sosa:observedProperty",
+      "@type": "xsd:string"
+    },
+    "value": {
+      "@id": "sosa:hasSimpleResult"
+    },
+    "unit": {
+      "@id": "qudt:unit",
+      "@type": "xsd:string"
+    },
+    "quality": {
+      "@id": "ind:quality",
+      "@type": "xsd:string"
+    },
+    "timestamp": {
+      "@id": "sosa:resultTime",
+      "@type": "xsd:dateTime"
+    },
+    "source_protocol": {
+      "@id": "ind:sourceProtocol",
+      "@type": "xsd:string"
+    },
+    "gateway_id": {
+      "@id": "ind:gatewayId",
+      "@type": "xsd:string"
+    },
+    "namespace": {
+      "@id": "ind:namespace",
+      "@type": "xsd:string"
+    },
+
+    "work_order_id": {
+      "@id": "ind:workOrderId",
+      "@type": "xsd:string"
+    },
+    "run_id": {
+      "@id": "ind:runId",
+      "@type": "xsd:string"
+    },
+    "priority": {
+      "@id": "ind:priority",
+      "@type": "xsd:string"
+    },
+    "asset": {
+      "@id": "ind:asset",
+      "@type": "@id"
+    }
+  }
+}
