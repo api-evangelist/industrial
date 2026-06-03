@@ -1,0 +1,27 @@
+title: Industrial
+description: An index and topic collection covering industrial APIs across industrial
+  IoT (IIoT), operational technology (OT), SCADA, manufacturing, smart factory, asset
+  management, predictive maintenance, energy management, and building automation.
+  This collection profiles industrial cloud platforms (Siemens MindSphere, PTC ThingWorx,
+  AWS IoT SiteWise, AWS IoT TwinMaker, AWS IoT Greengrass, Bosch IoT), historians
+  and asset performance management tools (OSIsoft PI, AspenTech), edge and connector
+  platforms (Litmus, Node-RED, HiveMQ, Aklivity), and the broader ecosystem of automation
+  vendors (Rockwell Automation, Honeywell, Emerson, Schneider Electric) that expose
+  APIs for plant data, equipment telemetry, work orders, and production runs. It anchors
+  the OPC UA, MQTT Sparkplug B, and Modbus protocol family alongside the asset registry,
+  telemetry, maintenance, and production data models that underpin modern industrial
+  integration.
+url: https://industrial.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary
