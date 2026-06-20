@@ -7,7 +7,7 @@ description: >-
   Schneider Electric) that expose APIs for plant data, equipment telemetry, work orders, and production runs. It anchors the OPC UA, MQTT Sparkplug B, and Modbus protocol family alongside the asset registry,
   telemetry, maintenance, and production data models that underpin modern industrial integration.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
 - Industrial IoT
 - Manufacturing
