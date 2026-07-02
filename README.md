@@ -3,8 +3,6 @@ An index and topic collection covering industrial APIs across industrial IoT (II
 
 **URL:** [https://apievangelist.com](https://apievangelist.com)
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
-
 ## Tags:
 
  - Industrial IoT, Manufacturing, OT, SCADA, Asset Management, Edge, Predictive Maintenance, Energy Management, Smart Factory
