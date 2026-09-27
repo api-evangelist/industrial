@@ -1,8 +1,8 @@
 ---
-title: 'One interface for API contracts, test coverage, and production signal: Build
-  AI quality workflows with the SmartBear MCP Server on Amazon Bedrock AgentCore'
-link: https://smartbear.com/blog/one-interface-for-api-contracts-test-coverage-and-production-signal-build-ai-quality-workflows-with-the-smartbear-mcp-server-on-amazon-bedrock-agentcore/
-published: '2026-08-12'
+title: Reduce API governance fragmentation with SmartBear Swagger, now fluent in multiple
+  protocols
+link: https://smartbear.com/blog/reduce-api-governance-fragmentation-with-smartbear-swagger-now-fluent-in-multiple-protocols/
+published: '2026-08-13'
 provider: reflect
 repo: https://github.com/api-evangelist/reflect
 domain: smartbear.com
