@@ -1,7 +1,7 @@
 ---
-title: How to Connect Claude and Other AI Assistants to Your IoT Platform with MCP
-link: https://tago.io/blog/connect-claude-ai-assistants-iot-platform-mcp/
-published: '2026-06-17'
+title: What the Model Context Protocol (MCP) Means for IoT
+link: https://tago.io/blog/what-is-model-context-protocol-mcp-for-iot/
+published: '2026-06-22'
 provider: tago-io
 repo: https://github.com/api-evangelist/tago-io
 domain: tago.io

@@ -1,8 +1,8 @@
 ---
-title: 'One interface for API contracts, test coverage, and production signal: Build
-  AI quality workflows with the SmartBear MCP Server on Amazon Bedrock AgentCore'
-link: https://smartbear.com/blog/one-interface-for-api-contracts-test-coverage-and-production-signal-build-ai-quality-workflows-with-the-smartbear-mcp-server-on-amazon-bedrock-agentcore/
-published: '2026-08-12'
+title: 'SmartBear MCP for Zephyr: Connect your testing system of record to your AI
+  tools'
+link: https://smartbear.com/blog/smartbear-mcp-server-zephyr/
+published: '2026-08-17'
 provider: reflect
 repo: https://github.com/api-evangelist/reflect
 domain: smartbear.com
