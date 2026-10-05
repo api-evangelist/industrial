@@ -1,5 +1,6 @@
 aid: industrial
 name: Industrial
+kind: topic
 description: >-
   An index and topic collection covering industrial APIs across industrial IoT (IIoT), operational technology (OT), SCADA, manufacturing, smart factory, asset management, predictive maintenance, energy management,
   and building automation. This collection profiles industrial cloud platforms (Siemens MindSphere, PTC ThingWorx, AWS IoT SiteWise, AWS IoT TwinMaker, AWS IoT Greengrass, Bosch IoT), historians and asset
