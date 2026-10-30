@@ -1,127 +1,97 @@
-# Industrial (industrial)
+# Industrial
+
+<!-- API-EVANGELIST-PROVENANCE:BEGIN -->
+> ### About this repository
+>
+> **This is not our API.** This repository is an independent, third-party profile of a company's
+> **publicly available** API surface, maintained by [API Evangelist](https://apievangelist.com).
+> API Evangelist does not operate, host, resell, or support this company's APIs, and is not
+> affiliated with or endorsed by the company unless stated on the profile.
+>
+> **Where the information came from.** Everything here is assembled from material a member of the
+> public can reach with a browser and no credentials — the company's own website, developer portal
+> and documentation, the specifications it publishes for public use (OpenAPI, AsyncAPI, JSON Schema,
+> `apis.json`, `llms.txt` and similar), its public repositories, and its public status, pricing and
+> changelog pages. **Nothing here is obtained by breaching a system, defeating an access control, or
+> using credentials of any kind.**
+>
+> **The rating is an independent assessment.** The Kin Score and Agent Readiness rating are
+> independently calculated scores of a company's *public* API artifacts, produced by API Evangelist
+> against a published rubric. They are not certifications, endorsements, security assessments, or
+> audits, and they score published artifacts — not the quality, safety, or security of the software.
+>
+> **Corrections, re-scores, and removal are free.** No partnership, contract, or purchase is
+> required, and you do not need to justify the request.
+>
+> - **Something wrong?** Open an issue on this repository, or email
+>   [info@apievangelist.com](mailto:info@apievangelist.com).
+> - **Published something new?** Ask for a re-score and we will re-run the rating.
+> - **Want the listing taken down?** Say so and we will honor it. The profile is reduced to your
+>   company name, a factual description, and a link to your own site, and the company is recorded as
+>   **unrated** — never scored zero for having asked.
+>
+> **Response times.** Acknowledgement within **one business day**; removal or restriction within
+> **two business days**; corrections and re-scores within **five business days**.
+>
+> **Not from the company, and here with a question?** You are welcome here — we would rather be the
+> front line and point you the right way than have a good report go nowhere. What this repository
+> can answer is narrow, though, so it is worth knowing who you are actually looking for:
+>
+> - **A question about how the API works, an account, billing, or a bug in the service** — that is
+>   the company's own support, not us. We profile this API; we do not operate it and cannot see
+>   your account.
+> - **A bug in an open-source project we only catalog** — file it on that project's own repository.
+>   This has happened with a real and correct bug report that reached us instead of the people who
+>   could fix it, which helped nobody.
+> - **Anything about this listing itself** — the description, the tags, the rating, a missing or
+>   wrong artifact — is ours. Open an issue here.
+> - **Not sure, or something general about API Evangelist or APIs.io** — open an issue on the
+>   [APIs.io Inbox](https://github.com/api-search/inbox) and we will route it.
+>
+> **This repository contains no software, and we will never ask you to download anything.** There is
+> no build, release, installer, or binary here — only text and machine-readable API descriptions, so
+> there is nothing here that can be "corrupt" or need "repairing". Any issue, comment, or email
+> claiming otherwise and offering a download link is not from us and is hostile. Do not follow the
+> link; it is a lure. Report it to GitHub and, if you like, tell us at
+> [info@apievangelist.com](mailto:info@apievangelist.com) so we can take it down.
+>
+> **On a security or compliance team?** Email
+> [info@apievangelist.com](mailto:info@apievangelist.com) with *security* in the subject line and
+> you will get a person, not a form. We will tell you exactly which public URLs this profile was
+> built from so your team can see the same surface we did, and we will take the listing down on
+> request while you work through it.
+>
+> Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
+<!-- API-EVANGELIST-PROVENANCE:END -->
+
 An index and topic collection covering industrial APIs across industrial IoT (IIoT), operational technology (OT), SCADA, manufacturing, smart factory, asset management, predictive maintenance, energy management, and building automation. This collection profiles industrial cloud platforms (Siemens MindSphere, PTC ThingWorx, AWS IoT SiteWise, AWS IoT TwinMaker, AWS IoT Greengrass, Bosch IoT), historians and asset performance management tools (OSIsoft PI, AspenTech), edge and connector platforms (Litmus, Node-RED, HiveMQ, Aklivity), and the broader ecosystem of automation vendors (Rockwell Automation, Honeywell, Emerson, Schneider Electric) that expose APIs for plant data, equipment telemetry, work orders, and production runs. It anchors the OPC UA, MQTT Sparkplug B, and Modbus protocol family alongside the asset registry, telemetry, maintenance, and production data models that underpin modern industrial integration.
 
-**URL:** [https://apievangelist.com](https://apievangelist.com)
+**Areas:** Industrial IoT · Manufacturing · OT · SCADA · Asset Management · Edge · Predictive Maintenance · Energy Management · Smart Factory
 
-## Tags:
+## Industrial on APIs.io
 
- - Industrial IoT, Manufacturing, OT, SCADA, Asset Management, Edge, Predictive Maintenance, Energy Management, Smart Factory
+Everything profiled for Industrial is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/industrial/](https://apis.io/providers/industrial/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+## Where to find this API
 
-- **Created:** 2026-05-19
-- **Modified:** 2026-05-19
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Common Properties
+- [GitHub](https://github.com/api-evangelist)
 
-- [Portal](https://apievangelist.com)
-- [GitHubOrganization](https://github.com/api-evangelist)
-- [JSONSchema - Asset Schema](https://raw.githubusercontent.com/api-evangelist/industrial/refs/heads/main/json-schema/industrial-asset-schema.json)
-- [JSONSchema - Telemetry Reading Schema](https://raw.githubusercontent.com/api-evangelist/industrial/refs/heads/main/json-schema/industrial-telemetry-reading-schema.json)
-- [JSON-LD](https://raw.githubusercontent.com/api-evangelist/industrial/refs/heads/main/json-ld/industrial-context.jsonld)
-- [Vocabulary](https://raw.githubusercontent.com/api-evangelist/industrial/refs/heads/main/vocabulary/industrial-vocabulary.yaml)
+## API Evangelist rating
 
-## Features
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Name | Description |
-|------|-------------|
-| Asset and Equipment Registries | Industrial APIs expose hierarchical asset models for plants, lines, machines, and components, enabling normalized identification and tagging across SCADA, MES, and ERP systems. |
-| Telemetry Ingestion and Time-Series Storage | Platforms like AWS IoT SiteWise, Amazon Timestream, and OSIsoft PI ingest high-frequency sensor readings from PLCs, gateways, and historians through query and streaming APIs. |
-| OPC UA, MQTT, and Sparkplug B Connectivity | Edge gateways and brokers (Litmus, HiveMQ, Aklivity, AWS IoT Greengrass) bridge OT protocols such as OPC UA, MQTT Sparkplug B, and Modbus into cloud-native API surfaces. |
-| Predictive Maintenance and Anomaly Detection | Services like Amazon Lookout for Equipment and Amazon Monitron apply ML to vibration, temperature, and current signals to predict failures and surface work orders. |
-| Digital Twins and 3D Operational Context | AWS IoT TwinMaker, Siemens MindSphere, and PTC ThingWorx assemble digital twin graphs that combine telemetry, 3D scenes, and asset metadata into queryable APIs. |
-| Production Runs and Manufacturing Execution | APIs expose work orders, production runs, batch records, OEE, and quality events to coordinate MES, ERP, and shop-floor systems. |
-| Energy and Building Automation | Schneider Electric, Honeywell, and Emerson APIs expose meter readings, HVAC controls, and energy-management workflows for industrial and commercial facilities. |
-| Edge Compute and Local Orchestration | AWS IoT Greengrass, Node-RED, and Litmus run containers and flows on industrial gateways, exposing local APIs for protocol translation, store-and-forward, and on-device analytics. |
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-## Use Cases
+## How this profile is made
 
-| Name | Description |
-|------|-------------|
-| Plant-Wide Asset Performance Management | Operators unify asset data from OSIsoft PI, AWS IoT SiteWise, and AspenTech into APIs that power dashboards, reliability programs, and condition-based maintenance. |
-| Predictive Maintenance for Rotating Equipment | Vibration and current data from pumps, motors, and compressors flows through Amazon Lookout for Equipment or Amazon Monitron APIs to predict failures and trigger CMMS work orders. |
-| OPC UA to Cloud Telemetry Pipelines | Manufacturers use Litmus, AWS IoT Greengrass, or HiveMQ to map OPC UA tags to MQTT Sparkplug B and stream normalized telemetry through cloud APIs. |
-| Manufacturing Execution and OEE | APIs from PTC ThingWorx, Rockwell FactoryTalk, and Siemens MindSphere expose production runs, downtime events, and OEE metrics to MES dashboards and ERP work-order systems. |
-| Energy Management and Sustainability Reporting | Schneider Electric and Honeywell APIs aggregate sub-meter, HVAC, and process-energy data into normalized feeds for sustainability and carbon-reporting platforms. |
-| Digital Twin Operations | AWS IoT TwinMaker, Siemens MindSphere, and PTC ThingWorx APIs combine 3D scenes, asset hierarchies, and live telemetry for remote operations, training, and root-cause analysis. |
-| Industrial Data Historian Modernization | Operators expose decades of PI System and AspenTech historian data through cloud APIs to power machine learning, anomaly detection, and process-optimization workflows. |
-| Edge Protocol Translation | Edge platforms like Litmus and Node-RED ingest Modbus, EtherNet/IP, and serial protocols at the gateway and republish them as MQTT, OPC UA, or REST APIs. |
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Integrations
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Industrial: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-| Name | Description |
-|------|-------------|
-| AWS IoT SiteWise | Managed industrial data service that collects, organizes, and analyzes equipment telemetry with hierarchical asset models and time-series APIs. |
-| AWS IoT TwinMaker | Digital twin service that combines 3D scenes, real-time data, and entity-relationship graphs into APIs for industrial operations. |
-| AWS IoT Greengrass | Edge runtime that runs Lambda functions, ML models, and connectors on industrial gateways with local APIs for protocol translation and store-and-forward. |
-| Siemens MindSphere | Industrial IoT cloud platform that connects machines and physical infrastructure to APIs for asset management, fleet analytics, and predictive services. |
-| PTC ThingWorx | Industrial IoT platform with APIs for asset modeling, mashups, augmented-reality work instructions, and manufacturing analytics. |
-| OSIsoft PI System | De-facto industrial data historian with PI Web API endpoints for streaming, querying, and contextualizing decades of process and equipment data. |
-| Litmus Automation | Industrial edge platform that connects PLCs, OPC UA servers, and MQTT brokers and exposes normalized data through cloud APIs. |
-| HiveMQ | Enterprise MQTT broker widely used in industrial deployments for Sparkplug B telemetry, device management, and edge-to-cloud messaging. |
+## Open an issue
 
-## Artifacts
-
-Machine-readable industrial API specifications organized by format.
-
-### JSON Schema
-
-- [Asset Schema](json-schema/industrial-asset-schema.json)
-- [Telemetry Reading Schema](json-schema/industrial-telemetry-reading-schema.json)
-
-### JSON Structure
-
-- [Asset Structure](json-structure/industrial-asset-structure.json)
-- [Telemetry Reading Structure](json-structure/industrial-telemetry-reading-structure.json)
-
-### JSON-LD
-
-- [Industrial Context](json-ld/industrial-context.jsonld)
-
-## Vocabulary
-
-- [Industrial Vocabulary](vocabulary/industrial-vocabulary.yaml) — Unified taxonomy covering industrial assets, telemetry, maintenance orders, production runs, and the IIoT, OT, and MES domains.
-
-## Network
-
-This index references the following industrial API repositories:
-
-- [1Factory](https://github.com/api-evangelist/1factory)
-- [Aklivity](https://github.com/api-evangelist/aklivity)
-- [Amazon FreeRTOS](https://github.com/api-evangelist/amazon-freertos)
-- [Amazon IoT Core](https://github.com/api-evangelist/amazon-iot-core)
-- [Amazon IoT Device Defender](https://github.com/api-evangelist/amazon-iot-device-defender)
-- [Amazon IoT Device Management](https://github.com/api-evangelist/amazon-iot-device-management)
-- [Amazon IoT Events](https://github.com/api-evangelist/amazon-iot-events)
-- [Amazon IoT FleetWise](https://github.com/api-evangelist/amazon-iot-fleetwise)
-- [Amazon IoT Greengrass](https://github.com/api-evangelist/amazon-iot-greengrass)
-- [Amazon IoT SiteWise](https://github.com/api-evangelist/amazon-iot-sitewise)
-- [Amazon IoT TwinMaker](https://github.com/api-evangelist/amazon-iot-twinmaker)
-- [Amazon Lookout for Equipment](https://github.com/api-evangelist/amazon-lookout-for-equipment)
-- [Amazon Monitron](https://github.com/api-evangelist/amazon-monitron)
-- [Amazon Timestream](https://github.com/api-evangelist/amazon-timestream)
-- [Apache NiFi](https://github.com/api-evangelist/apache-nifi)
-- [Applied Materials](https://github.com/api-evangelist/applied-materials)
-- [AspenTech](https://github.com/api-evangelist/aspentech)
-- [Autodesk](https://github.com/api-evangelist/autodesk)
-- [Baker Hughes](https://github.com/api-evangelist/baker-hughes)
-- [Belden](https://github.com/api-evangelist/belden)
-- [Bosch](https://github.com/api-evangelist/bosch)
-- [Emerson Electric](https://github.com/api-evangelist/emerson-electric)
-- [HiveMQ](https://github.com/api-evangelist/hivemq)
-- [Honeywell](https://github.com/api-evangelist/honeywell)
-- [Litmus](https://github.com/api-evangelist/litmus)
-- [MQTT](https://github.com/api-evangelist/mqtt)
-- [Node-RED](https://github.com/api-evangelist/node-red)
-- [OSIsoft PI](https://github.com/api-evangelist/osisoft-pi)
-- [PTC ThingWorx](https://github.com/api-evangelist/ptc-thingworx)
-- [Rockwell Automation](https://github.com/api-evangelist/rockwell-automation)
-- [Rockwell FactoryTalk](https://github.com/api-evangelist/rockwell-factorytalk)
-- [Schneider Electric Exchange](https://github.com/api-evangelist/schneider-electric-exchange)
-- [Siemens MindSphere](https://github.com/api-evangelist/siemens-mindsphere)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/industrial/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
