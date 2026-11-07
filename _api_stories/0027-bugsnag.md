@@ -1,8 +1,8 @@
 ---
-title: 'Practice what you Pact : Catch breaking API changes before production in the
-  SmartBear MCP'
-link: https://smartbear.com/blog/practice-what-you-pact-catch-breaking-api-changes-before-production-in-the-smartbear-mcp/
-published: '2026-08-11'
+title: 'SmartBear MCP for Zephyr: Connect your testing system of record to your AI
+  tools'
+link: https://smartbear.com/blog/smartbear-mcp-server-zephyr/
+published: '2026-08-17'
 provider: bugsnag
 repo: https://github.com/api-evangelist/bugsnag
 domain: smartbear.com
